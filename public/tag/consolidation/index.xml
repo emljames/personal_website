@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>consolidation | @emljames</title>
+    <link>/tag/consolidation/</link>
+      <atom:link href="/tag/consolidation/index.xml" rel="self" type="application/rss+xml" />
+    <description>consolidation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Wed, 29 Jul 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>consolidation</title>
+      <link>/tag/consolidation/</link>
+    </image>
+    
+    <item>
+      <title>Sleep-associated consolidation in app-based language learning</title>
+      <link>/talk/cog-sci-2020/</link>
+      <pubDate>Wed, 29 Jul 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/cog-sci-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App-based language learning</title>
+      <link>/project/memrise-project/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/memrise-project/</guid>
+      <description>&lt;p&gt;Studies of word learning and consolidation have tempting practical implications. &lt;em&gt;Can we target sleep problems to help with learning difficulties? Might we remember information better if we sleep straight after learning it?&lt;/em&gt; However, our understanding of sleep and word learning mostly comes from lab experiments, which control lots of other things about the learning environment. This means that the benefits of sleep might not be as apparent in real-world learning.&lt;/p&gt;
+&lt;p&gt;In this project, we ask whether there is observable evidence for sleep-associated benefits in everyday language learning. Using app data from the foreign language-learning platform 
+&lt;a href=&#34;https://www.memrise.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Memrise&lt;/em&gt;&lt;/a&gt;, we are testing whether memory for new words is better after a period of sleep compared to a period of wake. If it is, we can start to explore what else might support vocabulary learning in this context.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sleep‐dependent consolidation in children with comprehension and vocabulary weaknesses: it’ll be alright on the night?</title>
+      <link>/publication/jcpp-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jcpp-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From ZZZs to AAAs: Why Sleep Is an Important Part of Your Study Schedule</title>
+      <link>/publication/fym-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fym-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offline consolidation supersedes prior knowledge benefits in children&#39;s (but not adults&#39;) word learning</title>
+      <link>/publication/devsci-2019/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/devsci-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consolidating new words from repetitive versus multiple stories: Prior knowledge matters</title>
+      <link>/publication/jecp-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/jecp-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary: Knowledge Acquisition during Exam Preparation Improves Memory and Modulates Memory Formation</title>
+      <link>/publication/fbn-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fbn-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences in vocabulary acquisition</title>
+      <link>/project/phd-work/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/phd-work/</guid>
+      <description>&lt;p&gt;My PhD research aimed to understand individual differences in word learning and consolidation. Why do some children find word learning harder than others, and what happens to word memories in the longer term? Together with 
+&lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/lh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Lisa Henderson&lt;/a&gt; and 
+&lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/mgg5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Gareth Gaskell&lt;/a&gt;, we looked at how word learning might build on existing vocabulary knowledge.&lt;/p&gt;
+&lt;p&gt;We approached this question in three main ways. First, we looked at how individuals&amp;rsquo; existing vocabulary knowledged predicted their ability to learn and consolidate new words. Second, we manipulated the ways in which new words could relate to prior knowledge, and looked at how it affected word learning success. Third, we looked at children who often find word learning difficult, as is characteristic of children with reading comprehension difficulties.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

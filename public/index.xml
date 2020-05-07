@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@emljames</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>@emljames</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>@emljames</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Sleep-associated consolidation in app-based language learning</title>
+      <link>/talk/cog-sci-2020/</link>
+      <pubDate>Wed, 29 Jul 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/cog-sci-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App-based language learning</title>
+      <link>/project/memrise-project/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/memrise-project/</guid>
+      <description>&lt;p&gt;Studies of word learning and consolidation have tempting practical implications. &lt;em&gt;Can we target sleep problems to help with learning difficulties? Might we remember information better if we sleep straight after learning it?&lt;/em&gt; However, our understanding of sleep and word learning mostly comes from lab experiments, which control lots of other things about the learning environment. This means that the benefits of sleep might not be as apparent in real-world learning.&lt;/p&gt;
+&lt;p&gt;In this project, we ask whether there is observable evidence for sleep-associated benefits in everyday language learning. Using app data from the foreign language-learning platform 
+&lt;a href=&#34;https://www.memrise.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Memrise&lt;/em&gt;&lt;/a&gt;, we are testing whether memory for new words is better after a period of sleep compared to a period of wake. If it is, we can start to explore what else might support vocabulary learning in this context.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Memory Detectives</title>
+      <link>/project/developmental-loops/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/developmental-loops/</guid>
+      <description>&lt;p&gt;The events we experience contain lots of different types of information, such as where we are, the people we are with, and the objects around us. These details are bound together in our memory for the event, making it easy for us to remember the different elements together. For example, we might experience going to the park with a relative and finding a lost handbag there, and later find we remember that story upon visiting the park again.&lt;/p&gt;
+&lt;p&gt;As a postdoc in the 
+&lt;a href=&#34;http://www.aidanhorner.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;York Episodic Memory Lab&lt;/a&gt;, I worked on a project trying to understand the processes that support this kind of memory, and how they change across development. We had to make some changes to the classic research tasks to make them child-friendly, which unintentionally ended up 
+&lt;a href=&#34;https://psyarxiv.com/pd9us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;telling us a bit about the processes involved in itself&lt;/a&gt;! The developmental study itself is still ongoing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;project_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding difficulties with reading comprehension</title>
+      <link>/project/poor-comprehenders/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/poor-comprehenders/</guid>
+      <description>&lt;p&gt;Approximately 5-10% of children are thought to have difficulties with reading comprehension despite being able to read very accurately. Together with Jessie Ricketts, Danielle Colenbrander, Lisa Henderson, and Holly Joseph, we recently held a 
+&lt;a href=&#34;https://sites.google.com/york.ac.uk/poor-comprehender-workshop/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop to discuss research in this field&lt;/a&gt;. A key aim was to think about current practices for identifying children with specific reading comprehension difficulties.&lt;/p&gt;
+&lt;p&gt;Following on from the workshop, we are combining data from previous projects to understand differences in measures of reading comprehension. We want to know whether currently used assessments for reading comprehension identify the same kinds of comprehension difficulties as previous measures, so that we can continue to build upon this research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sleep‐dependent consolidation in children with comprehension and vocabulary weaknesses: it’ll be alright on the night?</title>
+      <link>/publication/jcpp-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jcpp-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Puzzle of Vocabulary Growth</title>
+      <link>/post/nbr-2017-summary/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/nbr-2017-summary/</guid>
+      <description>&lt;p&gt;Think about doing a jigsaw puzzle. Progress is often slow to begin with. It takes a while to work out how the thousands of tiny pieces fit within the bigger picture. A bit further down the line, you might have an outline. You&amp;rsquo;ve clustered some pieces together in their approximate space. The further you get, the easier it becomes to place each individual piece. That is, the framework you build makes it easier for you to make progress. This phenomenon is true of learning new topics too: we build cognitive frameworks that make it easier to learn related information. However, we don’t often consider how prior knowledge might affect language learning. Do children with better vocabulary knowledge find it easier to learn new words?&lt;/p&gt;
+&lt;img src=&#34;featured.png&#34; width=&#34;200&#34;/&gt;
+&lt;p&gt;To look at this question, we re-analysed data from five experiments of word learning in children. Each experiment involved teaching children some made-up words (for example, &lt;em&gt;dolpheg&lt;/em&gt;) that were similar to real words in English (&lt;em&gt;dolphin&lt;/em&gt;). Researchers then tested whether the two words became integrated in vocabulary. The integration task measured how quickly the children could detect a short pause inserted into the real words (e.g., &lt;em&gt;dolph__in&lt;/em&gt;), to see whether the made-up words were competing for recognition. The studies each found that sleep was important for this integration to happen: the new words interfered with children’s ability to process real words only when tested the next day.&lt;/p&gt;
+&lt;p&gt;We re-analysed the data from these experiments to look at how word learning might depend on children&amp;rsquo;s prior knowledge. Children’s prior knowledge was assessed using a separate vocabulary test. We found that children with weak prior knowledge were less likely to embed new words into vocabulary overnight. Children with better prior knowledge were more likely to integrate new and known words. So what might be happening differently for these children overnight?&lt;/p&gt;
+&lt;p&gt;When we first learn a new word, a region of the brain called the hippocampus creates a memory of it. It stores information about its sound, its meaning, and its connections to words we know. Those known words are stored in neocortical (outer) regions of the brain. During sleep, new memories are reorganised in the brain so that they too become part of this long-term knowledge. This is achieved by the hippocampus replaying and reactivating the new word memory. As a result, the connections between new and known words become stronger, and the new words become part of long-term vocabulary. We think that children with better prior knowledge can make more connections between new and known words during learning. With more connections, they experience bigger benefits from memory replay during sleep.&lt;/p&gt;
+&lt;p&gt;Children who have a better language framework seem to more readily lay down each word “piece” of the language puzzle overnight. However, there are many reasons why children who do well at vocabulary assessments might also do well on these measures of word learning. Our research is trying to understand this relationship better. Which aspects of learning benefit most from prior knowledge? Do adults rely on prior knowledge more than children? How can this help us to understand atypical language development? I’ll be addressing these questions in the coming months. By better understanding how children use their existing knowledge during word learning, we hope to better understand why some children lag behind in vocabulary growth.&lt;/p&gt;
+&lt;p&gt;This post was a summary of: Consolidation of vocabulary during sleep: The rich get richer? James, Gaskell, Weighall, &amp;amp; Henderson (2017), Neuroscience &amp;amp; Biobehavioral Reviews. 
+&lt;a href=&#34;https://doi.org/10.1016/j.neubiorev.2017.01.054&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.neubiorev.2017.01.054&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A freely available version can be downloaded here: 
+&lt;a href=&#34;http://eprints.whiterose.ac.uk/113350/1/NBB_review_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://eprints.whiterose.ac.uk/113350/1/NBB_review_paper.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From ZZZs to AAAs: Why Sleep Is an Important Part of Your Study Schedule</title>
+      <link>/publication/fym-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fym-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make or break it: Boundary conditions for integrating multiple elements in episodic memory</title>
+      <link>/publication/preprint-2020/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Offline consolidation supersedes prior knowledge benefits in children&#39;s (but not adults&#39;) word learning</title>
+      <link>/publication/devsci-2019/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/devsci-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consolidating new words from repetitive versus multiple stories: Prior knowledge matters</title>
+      <link>/publication/jecp-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/jecp-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consolidation of vocabulary during sleep: the rich get richer?</title>
+      <link>/publication/nbr-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nbr-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary: Knowledge Acquisition during Exam Preparation Improves Memory and Modulates Memory Formation</title>
+      <link>/publication/fbn-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fbn-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences in vocabulary acquisition</title>
+      <link>/project/phd-work/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/phd-work/</guid>
+      <description>&lt;p&gt;My PhD research aimed to understand individual differences in word learning and consolidation. Why do some children find word learning harder than others, and what happens to word memories in the longer term? Together with 
+&lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/lh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Lisa Henderson&lt;/a&gt; and 
+&lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/mgg5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Gareth Gaskell&lt;/a&gt;, we looked at how word learning might build on existing vocabulary knowledge.&lt;/p&gt;
+&lt;p&gt;We approached this question in three main ways. First, we looked at how individuals&amp;rsquo; existing vocabulary knowledged predicted their ability to learn and consolidate new words. Second, we manipulated the ways in which new words could relate to prior knowledge, and looked at how it affected word learning success. Third, we looked at children who often find word learning difficult, as is characteristic of children with reading comprehension difficulties.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

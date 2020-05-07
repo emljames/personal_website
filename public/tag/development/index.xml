@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development | @emljames</title>
+    <link>/tag/development/</link>
+      <atom:link href="/tag/development/index.xml" rel="self" type="application/rss+xml" />
+    <description>development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>development</title>
+      <link>/tag/development/</link>
+    </image>
+    
+    <item>
+      <title>Memory Detectives</title>
+      <link>/project/developmental-loops/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/developmental-loops/</guid>
+      <description>&lt;p&gt;The events we experience contain lots of different types of information, such as where we are, the people we are with, and the objects around us. These details are bound together in our memory for the event, making it easy for us to remember the different elements together. For example, we might experience going to the park with a relative and finding a lost handbag there, and later find we remember that story upon visiting the park again.&lt;/p&gt;
+&lt;p&gt;As a postdoc in the 
+&lt;a href=&#34;http://www.aidanhorner.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;York Episodic Memory Lab&lt;/a&gt;, I worked on a project trying to understand the processes that support this kind of memory, and how they change across development. We had to make some changes to the classic research tasks to make them child-friendly, which unintentionally ended up 
+&lt;a href=&#34;https://psyarxiv.com/pd9us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;telling us a bit about the processes involved in itself&lt;/a&gt;! The developmental study itself is still ongoing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;project_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding difficulties with reading comprehension</title>
+      <link>/project/poor-comprehenders/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/poor-comprehenders/</guid>
+      <description>&lt;p&gt;Approximately 5-10% of children are thought to have difficulties with reading comprehension despite being able to read very accurately. Together with Jessie Ricketts, Danielle Colenbrander, Lisa Henderson, and Holly Joseph, we recently held a 
+&lt;a href=&#34;https://sites.google.com/york.ac.uk/poor-comprehender-workshop/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop to discuss research in this field&lt;/a&gt;. A key aim was to think about current practices for identifying children with specific reading comprehension difficulties.&lt;/p&gt;
+&lt;p&gt;Following on from the workshop, we are combining data from previous projects to understand differences in measures of reading comprehension. We want to know whether currently used assessments for reading comprehension identify the same kinds of comprehension difficulties as previous measures, so that we can continue to build upon this research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Offline consolidation supersedes prior knowledge benefits in children&#39;s (but not adults&#39;) word learning</title>
+      <link>/publication/devsci-2019/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/devsci-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consolidation of vocabulary during sleep: the rich get richer?</title>
+      <link>/publication/nbr-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nbr-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences in vocabulary acquisition</title>
+      <link>/project/phd-work/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/phd-work/</guid>
+      <description>&lt;p&gt;My PhD research aimed to understand individual differences in word learning and consolidation. Why do some children find word learning harder than others, and what happens to word memories in the longer term? Together with 
+&lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/lh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Lisa Henderson&lt;/a&gt; and 
+&lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/mgg5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Gareth Gaskell&lt;/a&gt;, we looked at how word learning might build on existing vocabulary knowledge.&lt;/p&gt;
+&lt;p&gt;We approached this question in three main ways. First, we looked at how individuals&amp;rsquo; existing vocabulary knowledged predicted their ability to learn and consolidate new words. Second, we manipulated the ways in which new words could relate to prior knowledge, and looked at how it affected word learning success. Third, we looked at children who often find word learning difficult, as is characteristic of children with reading comprehension difficulties.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

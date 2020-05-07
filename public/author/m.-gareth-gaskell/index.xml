@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Gareth Gaskell | @emljames</title>
+    <link>/author/m.-gareth-gaskell/</link>
+      <atom:link href="/author/m.-gareth-gaskell/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Gareth Gaskell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Gareth Gaskell</title>
+      <link>/author/m.-gareth-gaskell/</link>
+    </image>
+    
+    <item>
+      <title>Sleep‐dependent consolidation in children with comprehension and vocabulary weaknesses: it’ll be alright on the night?</title>
+      <link>/publication/jcpp-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jcpp-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offline consolidation supersedes prior knowledge benefits in children&#39;s (but not adults&#39;) word learning</title>
+      <link>/publication/devsci-2019/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/devsci-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consolidation of vocabulary during sleep: the rich get richer?</title>
+      <link>/publication/nbr-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nbr-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
