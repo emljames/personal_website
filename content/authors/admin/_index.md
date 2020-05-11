@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: ""
   url: ""
-role: ""
+role: "Researcher in Psychology"
 social:
 - icon: envelope
   icon_pack: fas
