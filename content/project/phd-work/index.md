@@ -5,7 +5,7 @@ image:
   caption: Sourced from [Pixabay](https://pixabay.com/photos/learn-word-scrabble-letters-wooden-1820039/)
   focal_point: Smart
   preview_only: true
-summary: My PhD research into word learning
+summary: Examining variability in word learning and consolidation
 tags:
 - vocabulary
 - learning
