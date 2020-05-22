@@ -10,23 +10,28 @@
 
 [[main]]
   name = "Blog"
-  url = "#posts"
+  url = "post/"
   weight = 20
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "project/"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "publication/"
   weight = 40
 
 [[main]]
   name = "Resources"
   url = "courses/"
   weight = 50
+
+#[[main]]
+#  name = "CV"
+#  url = "cv/"
+#  weight = 55
 
 [[main]]
   name = "Contact"
