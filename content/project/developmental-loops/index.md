@@ -5,11 +5,11 @@ image:
   caption: Sourced from [Pixabay](https://pixabay.com/illustrations/welcome-words-greeting-language-905562/)
   focal_point: Smart
   preview_only: true
-summary: Understanding memory processes across development
+summary: "2019: Postdoctoral research with Dr Aidan Horner"
 tags:
 - memory
 - development
-title: Memory Detectives
+title: Understanding memory processes across development
 url_pdf: 
 url_slides: ""
 url_video: ""

@@ -5,12 +5,12 @@ image:
   caption: Sourced from [Pixabay](https://pixabay.com/illustrations/read-book-boys-education-seat-2799818/)
   focal_point: Smart
   preview_only: true
-summary: Who are poor comprehenders and how do we find them?
+summary: Ongoing; collective effort in combining reading comprehension datasets
 tags:
 - literacy
 - development
 - comprehension
-title: Understanding difficulties with reading comprehension
+title: Identifying difficulties in reading comprehension
 url_pdf: 
 url_slides: ""
 url_video: ""

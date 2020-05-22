@@ -1,18 +1,18 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2019-04-01T00:00:00Z"
 external_link: ""
 image:
   caption: Sourced from [Pixabay](https://pixabay.com/photos/learn-word-scrabble-letters-wooden-1820039/)
   focal_point: Smart
   preview_only: true
-summary: Examining variability in word learning and consolidation
+summary: "2014--2019: PhD research with Dr Lisa Henderson and Prof. Gareth Gaskell"
 tags:
 - vocabulary
 - learning
 - consolidation
 - development
 - literacy
-title: Individual differences in vocabulary acquisition
+title: Individual differences in word learning and consolidation
 
 url_pdf: http://etheses.whiterose.ac.uk/23489/
 url_slides: ""
