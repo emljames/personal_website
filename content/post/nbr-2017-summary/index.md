@@ -23,7 +23,7 @@ tags:
 title: 'The Puzzle of Vocabulary Growth'
 ---
 
-Think about doing a jigsaw puzzle. Progress is often slow to begin with. It takes a while to work out how the thousands of tiny pieces fit within the bigger picture. A bit further down the line, you might have an outline. You've clustered some pieces together in their approximate space. The further you get in building the framework, the easier it becomes for you to place each individual piece. This phenomenon is true of learning new topics too --- we build cognitive frameworks that make it easier to learn related information. Yet, we don't know much about how language learners use their prior knowledge. We looked back at previous experiments to ask: do children with better vocabulary knowledge find it easier to learn new words?
+Think about doing a jigsaw puzzle. Progress is often slow to begin with. It takes a while to work out how the thousands of tiny pieces fit within the bigger picture. A bit further down the line, you might have an outline. You've clustered some pieces together in their approximate space. The further you get in building the framework, the easier it becomes for you to place each individual piece. This phenomenon is true of learning new topics too --- we build cognitive frameworks that make it easier to learn related information. Yet, we don't know much about how language learners use their prior knowledge. We asked, do children with better vocabulary knowledge find it easier to learn new words?
 
 <img src="featured.png" width="200"/>
 
