@@ -30,6 +30,6 @@ title: "A (half) marathon not a sprint: Preparing to conduct multi-session memor
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/S6Hz-X0KecE"
 url_dataset: 
 ---

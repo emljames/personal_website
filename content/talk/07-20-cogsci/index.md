@@ -34,8 +34,8 @@ tags:
 - Memory
 title: Sleep-associated consolidation in app-based language learning
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "https://cognitivesciencesociety.org/cogsci20/papers/0216/0216.pdf"
+url_poster: "https://osf.io/d8xcb/"
 url_video: ""
 url_dataset: https://osf.io/skuzd/
 ---

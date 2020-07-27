@@ -30,6 +30,6 @@ title: Open research means open conversation
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/PyHBT86XBkg?t=3264"
 url_dataset: 
 ---
