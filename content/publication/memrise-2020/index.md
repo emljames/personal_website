@@ -14,7 +14,7 @@ projects: [memrise-project]
 publication: '*Proceedings of the 42nd Annual Conference of the Cognitive Science Society*'
 publication_short: ""
 publication_types:
-- "2"
+- "1"
 publishDate: "2020-07-31T00:00:00Z"
 slides: 
 summary: "We test whether sleep-associated memory benefits are observable in naturalistic language learning."

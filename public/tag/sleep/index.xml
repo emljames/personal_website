@@ -5,12 +5,20 @@
     <link>/tag/sleep/</link>
       <atom:link href="/tag/sleep/index.xml" rel="self" type="application/rss+xml" />
     <description>Sleep</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Wed, 29 Jul 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sleep</title>
       <link>/tag/sleep/</link>
     </image>
+    
+    <item>
+      <title>Sleep-associated consolidation in app-based language learning</title>
+      <link>/publication/memrise-2020/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/memrise-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>

@@ -5,12 +5,20 @@
     <link>/tag/memory/</link>
       <atom:link href="/tag/memory/index.xml" rel="self" type="application/rss+xml" />
     <description>memory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Wed, 29 Jul 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>memory</title>
       <link>/tag/memory/</link>
     </image>
+    
+    <item>
+      <title>Sleep-associated consolidation in app-based language learning</title>
+      <link>/publication/memrise-2020/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/memrise-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
@@ -36,7 +44,7 @@
       <description>&lt;p&gt;The events we experience contain lots of different types of information, such as where we are, the people we are with, and the objects around us. These details are bound together in our memory for the event, making it easy for us to remember the different elements together. For example, we might experience going to the park with a relative and finding a lost handbag there, and later find we remember that story upon visiting the park again.&lt;/p&gt;
 &lt;p&gt;As a postdoc in the 
 &lt;a href=&#34;http://www.aidanhorner.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;York Episodic Memory Lab&lt;/a&gt;, I worked on a project trying to understand the processes that support this kind of memory, and how they change across development. We had to make some changes to the classic research tasks to make them child-friendly, which unintentionally ended up 
-&lt;a href=&#34;https://psyarxiv.com/pd9us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;telling us a bit about the processes involved in itself&lt;/a&gt;! The developmental study itself is still ongoing.&lt;/p&gt;
+&lt;a href=&#34;https://psyarxiv.com/pd9us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;telling us a bit about the processes involved in itself&lt;/a&gt;! The developmental aspect of the study is still ongoing.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;project_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>

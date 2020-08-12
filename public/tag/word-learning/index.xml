@@ -5,12 +5,56 @@
     <link>/tag/word-learning/</link>
       <atom:link href="/tag/word-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Word learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Word learning</title>
       <link>/tag/word-learning/</link>
     </image>
+    
+    <item>
+      <title>Tools and tips for collecting spoken responses online</title>
+      <link>/post/online-voice-recordings/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/online-voice-recordings/</guid>
+      <description>&lt;p&gt;Recently, I gave a 
+&lt;a href=&#34;https://www.emma-james.co.uk/talk/06-20-beonline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;talk&lt;/a&gt; on running multi-session studies online at the 2020 
+&lt;a href=&#34;https://beonline.research.sc/2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeOnline conference&lt;/a&gt;. I mentioned that we had recently collected vocal responses online, but that I didn’t have time to talk about it. So, here’s a little bit more about my experiences.&lt;/p&gt;
+&lt;p&gt;We collected spoken responses as part of a word learning study. 125 participants were recruited via Prolific, and listened to a spoken story containing made-up words. In each of three test sessions (same day, next day, one week later), we asked them to try and recall the made-up words. We presented them with the starting sound for each word, and asked them to try and speak the whole word that they had heard in the story. We were interested in which words participants could remember at each test point, scoring each trial as correct or incorrect.&lt;/p&gt;
+&lt;h2 id=&#34;the-tools&#34;&gt;The tools&lt;/h2&gt;
+&lt;p&gt;The experiment was programmed in Gorilla, and we collected spoken responses using the 
+&lt;a href=&#34;https://gorilla.sc/support/reference/task-builder-zones#audiorecordingbeta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Audio Recording Zone”&lt;/a&gt;. This zone is still in BETA testing (at the time of posting), which means that Gorilla are still ironing out a few issues. We did some thorough piloting and made it through relatively problem-free, but Gorilla have added some warnings of issues to be aware of.&lt;/p&gt;
+&lt;p&gt;The zone includes a “Test Mode” option, which is Gorilla’s built-in tool for participants to test whether their microphones are working. This mode creates a short recording of the participant’s voice and plays it back to them so that they can check they can be heard. Note that this relies on their honesty though &amp;ndash; there is no way for the software itself to check sound quality, or for you to know that recordings are OK before the participant proceeds.&lt;/p&gt;
+&lt;p&gt;Within your experimental task, you incorporate the zone on the relevant trial screen as you would any other response zone in Gorilla, and set the option to “Record Mode”. This will record a short sound file for each trial, which can be ended by a button press or a timeout (you can see the various setting options in the 
+&lt;a href=&#34;https://gorilla.sc/support/reference/task-builder-zones#audiorecordingbeta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;guidance&lt;/a&gt;). At the end of my experiment, I downloaded a short .mp3 file for each word trial for each participant.&lt;/p&gt;
+&lt;p&gt;I use 
+&lt;a href=&#34;https://link.springer.com/article/10.3758/BF03192979&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CheckVocal&lt;/a&gt; (Protopapas, 2007) for scoring each recording as correct or incorrect. CheckVocal is freely available software that was originally designed to process naming data from DMDX software. Although these recordings were collected via Gorilla, it still did the job for me (after converting the files to .wav first). You can download the software from 
+&lt;a href=&#34;https://github.com/0avasns/CheckVocal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-tips&#34;&gt;The tips&lt;/h2&gt;
+&lt;p&gt;OK, so I’ve only run one experiment &amp;ndash; I don’t have a HUGE wealth of knowledge to offer. But here are the steps I took (or would take next time!) to try and maintain data quality:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Put a test mode at the very start of your experiment.&lt;/strong&gt; I put this even before the main study information and consent form, as no data is collected at this stage.  Ask participants to change their settings until their audio is clear. If they can’t get it to work, they can return to Prolific with very little time lost, thereby minimising expensive data loss for you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Repeat the test mode&lt;/strong&gt; before the recording part of your task. You might not need to do this, but I repeated the recording tasks in subsequent test sessions and wanted to provide an opportunity for re-adjustment if needed. Plus it doesn’t harm to be a little extra cautious!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create your own test recording.&lt;/strong&gt; The test modes don’t store any data for you, so I added my own test trial. I asked participants to speak “Take me to the task” before starting the experiment, which served three main purposes:
+&lt;ol&gt;
+&lt;li&gt;It gave me a quick reference trial to check before approving the participant&amp;rsquo;s submission on Prolific. Checking data quality before approval provides an opportunity to query any issues  at a stage when participants are likely to respond.&lt;/li&gt;
+&lt;li&gt;It provided a reference trial for subsequent scoring. Blank sound files are very hard to interpret (see below), so evidence of the participant’s microphone working during that test session can be helpful.&lt;/li&gt;
+&lt;li&gt;It reinforced that sound recording was a vital part of the experiment, and that participants shouldn’t try to proceed without it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;(And an extra point – it was wonderful listening to all the kind strangers with their various accents asking to be taken to the experiment!)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avoid blank sound files.&lt;/strong&gt; Empty recordings can be very hard to interpret: they tend to consist of only white noise, and/or might be very short. This leaves you with no idea whether the participant didn’t attempt a response or whether the recording didn&amp;rsquo;t work properly. To help with this, we encouraged participants to attempt an answer if they could, and speak “don’t know” or “pass” if not. The majority of participants did this, but I think in future I would keep a reminder on-screen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Don’t expect a lab-based environment.&lt;/strong&gt; Before starting this experiment, I had an idealised view that I would be able to tell if a participant wasn’t in an appropriately quiet environment, and that it would be easy to exclude them on that basis. It isn’t. You have no real idea whether that faint music/television is in the same room and whether the participants can hear it through their headphones. You don’t know how distracted that participant is from the children screaming at each other (OK I might have had to exclude &lt;em&gt;that&lt;/em&gt; trial…). You might even hear your participants take an extra moment to ask their co-habitant to be quiet. Then what?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;…Think very carefully about the implications of background noise for your research question&lt;/strong&gt;, and remember that you will never have the same control as in the lab. This goes for any online study &amp;mdash; it just becomes more obvious when collecting sound recordings. Of course, you will ask that your participants are in a quiet environment where they are unlikely to be disturbed, but if this is crucial to your experiment then you will really need to spell out exactly what that means and think through your criteria for exclusion. For me, my main measure was the accuracy of the word remembered (response times didn&amp;rsquo;t matter) and I had other ways to ensure that participants were engaging with the task. I was also comparing this experiment to one conducted with children in schools &amp;ndash; background noise and screaming children are pretty common occurrences there too.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I think that’s all I can think of that might be helpful, but please feel free to leave comments with any further questions or your own tips and experiences. You can read more about the study in our 
+&lt;a href=&#34;https://psyarxiv.com/vm5ad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recent preprint&lt;/a&gt;, or access the experimental tasks on 
+&lt;a href=&#34;https://gorilla.sc/openmaterials/104397&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gorilla Open Materials&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Happy data collection!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The role of prior lexical knowledge in children’s and adults’ word learning from stories</title>

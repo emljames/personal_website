@@ -2,8 +2,8 @@
   "name": "Emma James",
   "short_name": "Emma James",
   "lang": "en-gb",
-  "theme_color": "#4E505B",
-  "background_color": "#4E505B",
+  "theme_color": "#52587D",
+  "background_color": "#52587D",
   "icons": [{
     "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
