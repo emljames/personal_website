@@ -38,7 +38,7 @@ The zone includes a “Test Mode” option, which is Gorilla’s built-in tool f
 
 Within your experimental task, you incorporate the zone on the relevant trial screen as you would any other response zone in Gorilla, and set the option to “Record Mode”. This will record a short sound file for each trial, which can be ended by a button press or a timeout (you can see the various setting options in the [guidance](https://gorilla.sc/support/reference/task-builder-zones#audiorecordingbeta)). At the end of my experiment, I downloaded a short .mp3 file for each word trial for each participant. 
 
-I use [CheckVocal](https://link.springer.com/article/10.3758/BF03192979) (Protopapas, 2007) for scoring each recording as correct or incorrect. CheckVocal is freely available software that was originally designed to process naming data from DMDX software. Although these recordings were collected via Gorilla, it still did the job for me (after converting the files to .wav first). You can download the software from [github](https://github.com/0avasns/CheckVocal). 
+I used [CheckVocal](https://link.springer.com/article/10.3758/BF03192979) (Protopapas, 2007) for scoring each recording as correct or incorrect. CheckVocal is freely available software that was originally designed to process naming data from DMDX software. Although these recordings were collected via Gorilla, it still did the job for me (after converting the files to .wav first). You can download the software from [github](https://github.com/0avasns/CheckVocal). 
 
 ## The tips
 OK, so I’ve only run one experiment -- I don’t have a HUGE wealth of knowledge to offer. But here are the steps I took (or would take next time!) to try and maintain data quality:  
