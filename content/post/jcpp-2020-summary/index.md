@@ -42,4 +42,4 @@ So sleep is more than an opportunity for rest: it’s important for storing new 
 
 *This post was a summary of: Sleep-dependent consolidation in children with comprehension and vocabulary weaknesses: It’ll be alright on the night? James, Gaskell, & Henderson (2020), Journal of Child Psychology and Psychiatry. [https://doi.org/10.1111/jcpp.13253](https://doi.org/10.1111/jcpp.13253) (open access)*
 
-[^1]: *Image credits: Komondor: [Nikki68](https://commons.wikimedia.org/wiki/File:Komondor_delvin.jpg); Deglupta: [Valerie](https://www.flickr.com/photos/ucumari/29541867567)*
+[^1]: *Image credits: Komondor: [Nikki68](https://commons.wikimedia.org/wiki/File:Komondor_delvin.jpg); Deglupta: [Valerie](https://www.flickr.com/photos/ucumari/29541867567); Front page image: [Olivia Jester](https://www.publicdomainpictures.net/en/view-image.php?image=184718&picture=school-46)*
