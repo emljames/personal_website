@@ -13,6 +13,35 @@
     </image>
     
     <item>
+      <title>It&#39;ll be alright on the night</title>
+      <link>/post/jcpp-2020-summary/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/jcpp-2020-summary/</guid>
+      <description>&lt;p&gt;Sleep helps us to learn new words, but children with reading comprehension difficulties often have poor memory for new vocabulary. In our recent study, we asked whether their vocabulary problems lie in what happens during sleep.&lt;/p&gt;
+&lt;p&gt;We taught children the names of unusual animals and plants. Some particular favourites were the shaggy &lt;em&gt;komondor&lt;/em&gt; dog and the rainbow &lt;em&gt;deglupta&lt;/em&gt; tree, pictured below&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The words were split across two sets of learning and test sessions. In one set children learned the new words first thing in the morning, and in the other set they learned the new words at the end of the evening. Straight after each learning session, they completed some memory tests for the words they had learned. Children then sat the same tests again 12 and 24 hours later, allowing us to trace how their memory changed over wake and sleep.&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; &lt;img src=&#34;komondor.jpg&#34; alt=&#34;Photo of a komondor dog&#34; style=&#34;width: 282px;&#34;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&#34;deglupta.jpg&#34; alt=&#34;Photo of a deglupta tree&#34; style=&#34;width: 200px;&#34;/&gt; &lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Children were better at remembering the new words after they had slept. This memory boost lasted across the next day, even when children were tired again the following evening. Sleep was most beneficial when children learned the words right before their bedtime. In fact, when we visited again a month later, children were still better at remembering the words they had learned in the evening.&lt;/p&gt;
+&lt;p&gt;The children with reading comprehension difficulties found it harder to learn the new words. Even so, their memory still improved over sleep. Learning close to bedtime may be especially helpful for the children with a vocabulary weakness. Children with poor vocabulary were less likely to show sleep benefits for words learned earlier in the day. Nevertheless, all children showed sleep benefits for words learned in the evening.&lt;/p&gt;
+&lt;p&gt;So sleep is more than an opportunity for rest: it’s important for storing new words in long-term memory. Children with reading comprehension difficulties were equally able to benefit from sleep to retain their new knowledge, even though they found it harder to learn the words to start with. It may be that we can capitalise on sleep best if the information is fresh in our memory before we go to bed. This suggests that timing could play an important role in maximising learning – particularly for children with weaker vocabulary knowledge. For these children, a book at bedtime may be an especially valuable language learning opportunity.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post was a summary of: Sleep-dependent consolidation in children with comprehension and vocabulary weaknesses: It’ll be alright on the night? James, Gaskell, &amp;amp; Henderson (2020), Journal of Child Psychology and Psychiatry. 
+&lt;a href=&#34;https://doi.org/10.1111/jcpp.13253&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/jcpp.13253&lt;/a&gt; (open access)&lt;/em&gt;&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;em&gt;Image credits: Komondor: 
+&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Komondor_delvin.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikki68&lt;/a&gt;; Deglupta: 
+&lt;a href=&#34;https://www.flickr.com/photos/ucumari/29541867567&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valerie&lt;/a&gt;&lt;/em&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tools and tips for collecting spoken responses online</title>
       <link>/post/online-voice-recordings/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
@@ -27,7 +56,7 @@
 &lt;p&gt;The zone includes a “Test Mode” option, which is Gorilla’s built-in tool for participants to test whether their microphones are working. This mode creates a short recording of the participant’s voice and plays it back to them so that they can check they can be heard. Note that this relies on their honesty though &amp;ndash; there is no way for the software itself to check sound quality, or for you to know that recordings are OK before the participant proceeds.&lt;/p&gt;
 &lt;p&gt;Within your experimental task, you incorporate the zone on the relevant trial screen as you would any other response zone in Gorilla, and set the option to “Record Mode”. This will record a short sound file for each trial, which can be ended by a button press or a timeout (you can see the various setting options in the 
 &lt;a href=&#34;https://gorilla.sc/support/reference/task-builder-zones#audiorecordingbeta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;guidance&lt;/a&gt;). At the end of my experiment, I downloaded a short .mp3 file for each word trial for each participant.&lt;/p&gt;
-&lt;p&gt;I use 
+&lt;p&gt;I used 
 &lt;a href=&#34;https://link.springer.com/article/10.3758/BF03192979&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CheckVocal&lt;/a&gt; (Protopapas, 2007) for scoring each recording as correct or incorrect. CheckVocal is freely available software that was originally designed to process naming data from DMDX software. Although these recordings were collected via Gorilla, it still did the job for me (after converting the files to .wav first). You can download the software from 
 &lt;a href=&#34;https://github.com/0avasns/CheckVocal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;the-tips&#34;&gt;The tips&lt;/h2&gt;
