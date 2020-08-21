@@ -5,7 +5,7 @@ authors:
 - Gabrielle Ong
 - Lisa M. Henderson
 - Aidan J. Horner
-date: "2020-03-07T00:00:00Z"
+date: "2020-08-18T00:00:00Z"
 doi: "10.31234/osf.io/pd9us"
 featured: false
 image:
@@ -14,13 +14,13 @@ image:
   preview_only: true
 projects:
 - developmental-loops
-publication: ""
+publication: "*Royal Society Open Science* (accepted)"
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: 
+summary: Binding across seperately encoded event elements is constrained by stimulus modality. 
 tags:
 - Memory
 - Episodic memory

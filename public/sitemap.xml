@@ -9,52 +9,112 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <loc>/tag/big-data/</loc>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jcpp-2020-summary/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <loc>/tag/consolidation/</loc>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/poor-comprehenders/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <loc>/talk/08-20-memtalk/</loc>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/prior-knowledge/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <loc>/tag/learning/</loc>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/research-summary/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <loc>/tag/memory/</loc>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/sleep/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <lastmod>2020-08-26T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-08-19T11:38:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jcpp-2020-summary/</loc>
+    <lastmod>2020-08-19T11:38:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/poor-comprehenders/</loc>
+    <lastmod>2020-08-19T11:38:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/prior-knowledge/</loc>
+    <lastmod>2020-08-19T11:38:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/research-summary/</loc>
+    <lastmod>2020-08-19T11:38:01+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/vocabulary/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <lastmod>2020-08-19T11:38:01+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/word-learning/</loc>
-    <lastmod>2020-08-19T11:35:14+01:00</lastmod>
+    <lastmod>2020-08-19T11:38:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/aidan-j.-horner/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/episodic-memory/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gabrielle-ong/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lisa-m.-henderson/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/breakdep-2020/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,23 +153,8 @@
   </url>
   
   <url>
-    <loc>/tag/consolidation/</loc>
-    <lastmod>2020-08-12T18:12:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lisa-m.-henderson/</loc>
-    <lastmod>2020-08-04T15:34:16+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/m.-gareth-gaskell/</loc>
     <lastmod>2020-08-04T15:34:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-12T18:12:52+01:00</lastmod>
   </url>
   
   <url>
@@ -133,16 +178,6 @@
   </url>
   
   <url>
-    <loc>/tag/learning/</loc>
-    <lastmod>2020-08-12T18:12:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/memory/</loc>
-    <lastmod>2020-08-12T18:12:52+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/memrise-2020/</loc>
     <lastmod>2020-08-12T18:12:52+01:00</lastmod>
   </url>
@@ -153,22 +188,12 @@
   </url>
   
   <url>
-    <loc>/tag/big-data/</loc>
-    <lastmod>2020-07-27T16:14:11+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/07-20-cogsci/</loc>
     <lastmod>2020-07-27T16:14:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>/author/yolanda-koutraki/</loc>
-    <lastmod>2020-07-27T16:14:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
     <lastmod>2020-07-27T16:14:11+01:00</lastmod>
   </url>
   
@@ -290,26 +315,6 @@
   <url>
     <loc>/publication/fym-2020/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/aidan-j.-horner/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/episodic-memory/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gabrielle-ong/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/breakdep-2020/</loc>
-    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>

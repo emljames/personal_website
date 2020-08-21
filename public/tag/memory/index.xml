@@ -5,12 +5,28 @@
     <link>/tag/memory/</link>
       <atom:link href="/tag/memory/index.xml" rel="self" type="application/rss+xml" />
     <description>memory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Wed, 26 Aug 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>memory</title>
       <link>/tag/memory/</link>
     </image>
+    
+    <item>
+      <title>Learn, Sleep, Recall, Repeat</title>
+      <link>/talk/08-20-memtalk/</link>
+      <pubDate>Wed, 26 Aug 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/08-20-memtalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make or break it: Boundary conditions for integrating multiple elements in episodic memory</title>
+      <link>/publication/breakdep-2020/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/breakdep-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
@@ -62,14 +78,6 @@
       <link>/publication/fym-2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/fym-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Make or break it: Boundary conditions for integrating multiple elements in episodic memory</title>
-      <link>/publication/breakdep-2020/</link>
-      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/breakdep-2020/</guid>
       <description></description>
     </item>
     
