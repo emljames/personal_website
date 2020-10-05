@@ -49,6 +49,7 @@ user_groups:
 
 Hi there,
 
-Welcome to my website! This is my way of sharing my latest research activities, publications, and general thoughts. 
+Welcome to my website. This is my way of sharing my latest research activities, publications, and general thoughts. 
 
-I am currently an ESRC Postdoctoral Research Fellow in the Department of Psychology, University of York. You can find out more about my latest projects below. 
+I am currently a Postdoctoral Researcher at the Department of Experimental Psychology, University of Oxford. You can find out more about my research projects below.
+
