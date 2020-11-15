@@ -12,7 +12,7 @@ authors:
 date: "2020-11-25T13:00:00Z"
 date_end: "2020-11-25T14:00:00Z"
 event: UCL Language and Cognition Seminar
-event_url: 
+event_url: "https://www.ucl.ac.uk/pals/events/2020/nov/language-cognition-seminar-dr-emma-james"
 featured: false
 image:
   caption: 'Image credit: []())'
