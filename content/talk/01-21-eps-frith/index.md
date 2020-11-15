@@ -23,9 +23,9 @@ projects:
 - phd-work
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: 
+summary: 9th EPS Frith Prize Lecture
 tags:
-title: "9th EPS Frith Prize Lecture: Word learning through the lens of prior knowledge"
+title: "Word learning through the lens of prior knowledge"
 url_code: ""
 url_pdf: ""
 url_poster: ""

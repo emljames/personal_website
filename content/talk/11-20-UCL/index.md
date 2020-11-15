@@ -22,7 +22,7 @@ math: true
 projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: 
+summary: UCL Language and Cognition Seminar 
 tags:
 title: "It'll be alright on the night? Exploring bedtime benefits for vocabulary learning"
 url_code: ""

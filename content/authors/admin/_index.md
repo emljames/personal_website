@@ -47,8 +47,6 @@ user_groups:
 - Visitors
 ---
 
-Hi there,
-
 Welcome to my website. This is my way of sharing my latest research activities, publications, and general thoughts. 
 
 I am currently a Postdoctoral Researcher at the Department of Experimental Psychology, University of Oxford. You can find out more about my research projects below.
