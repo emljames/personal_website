@@ -5,8 +5,8 @@ authors:
 - Gabrielle Ong
 - Lisa M. Henderson
 - Aidan J. Horner
-date: "2020-09-29T00:00:00Z"
-doi: "10.31234/osf.io/2rbt3"
+date: "2021-02-12T00:00:00Z"
+doi: "10.5334/joc.149"
 featured: false
 image:
   caption: 'Image credit: []()'
@@ -27,7 +27,7 @@ tags:
 title: "The formation and retrieval of holistic event memories across development"
 url_code: ''
 url_dataset: 'https://osf.io/a8dkj/'
-url_pdf: https://psyarxiv.com/2rbt3/
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880000/pdf/joc-4-1-149.pdf
 url_poster: ''
 url_project: ""
 url_slides: ""

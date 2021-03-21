@@ -29,6 +29,6 @@ title: "Word learning through the lens of prior knowledge"
 url_code: ""
 url_pdf: ""
 url_poster: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=cWBhhIolTAI"
 url_dataset: ""
 ---
