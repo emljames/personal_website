@@ -5,8 +5,8 @@ authors:
 - Gabrielle Ong
 - Lisa M. Henderson
 - Aidan J. Horner
-date: "2020-08-18T00:00:00Z"
-doi: "10.31234/osf.io/pd9us"
+date: "2020-09-16T00:00:00Z"
+doi: "10.1098/rsos.200431"
 featured: false
 image:
   caption: 'Image credit: []()'
@@ -14,7 +14,7 @@ image:
   preview_only: true
 projects:
 - developmental-loops
-publication: "*Royal Society Open Science* (accepted)"
+publication: "*Royal Society Open Science, 7*(9)"
 publication_short: ""
 publication_types:
 - "2"
@@ -27,7 +27,7 @@ tags:
 title: "Make or break it: Boundary conditions for integrating multiple elements in episodic memory"
 url_code: ''
 url_dataset: 'https://osf.io/cqm7v/'
-url_pdf: 10.31234/osf.io/pd9us
+url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.200431
 url_poster: ''
 url_project: ""
 url_slides: ""

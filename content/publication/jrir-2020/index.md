@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: []()'
   preview_only: true
 projects: [ma-lancaster]
-publication: '*Journal of Research in Reading*'
+publication: '*Journal of Research in Reading, 44*(1)'
 publication_short: ""
 publication_types:
 - "2"

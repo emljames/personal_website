@@ -14,10 +14,10 @@ image:
   preview_only: true
 projects:
 - developmental-loops
-publication: ""
+publication: "*Journal of Cognition, 4*(1)"
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: "Holistic retrieval of event memories is established by age 6, with no evidence of further development into adulthood." 

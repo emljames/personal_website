@@ -11,7 +11,7 @@ image:
   caption: 'Image credit: []()'
   preview_only: true
 projects: [phd-work]
-publication: '*Journal of Child Psychology and Psychiatry*'
+publication: '*Journal of Child Psychology and Psychiatry, 61*(10)'
 publication_short: ""
 publication_types:
 - "2"
