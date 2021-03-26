@@ -9,29 +9,32 @@
 #  weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 20
-
-[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 40
+  weight = 10
   
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 45
+  weight = 20
 
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 30
+  
+[[main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 40
+  
 [[main]]
   name = "Resources"
   url = "courses/"
   weight = 50
+
+
 
 #[[main]]
 #  name = "CV"
@@ -41,7 +44,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
   
 
 # Link to a PDF of your resume/CV from the menu.
@@ -49,4 +52,4 @@
  [[main]]
     name = "CV"
     url = "files/EJames_CV.pdf"
-    weight = 70
+    weight = 60
