@@ -1,18 +1,17 @@
 # Theme metadata
-name = "Ocean"
+name = "Rose"
 
 # Is theme light or dark?
 light = true
 
 # Primary
 
-primary = "#52587D"
+primary = "#414141"
 
 # Menu
-#menu_primary = "#4E505B" 
-menu_primary = "#52587D" # 500
+menu_primary = "#414141" 
 menu_text = "#fff"
-menu_text_active = "#CCD0E5" # A100
+menu_text_active = "#CCD0E5" # 
 menu_title = "#fff"
 
 # Home sections
