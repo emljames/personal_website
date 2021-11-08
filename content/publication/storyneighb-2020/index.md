@@ -1,5 +1,5 @@
 ---
-abstract: Children and adults benefit from a new word’s phonological neighbours during explicit vocabulary instruction, suggesting that related prior knowledge supports learning across development. This study examined lexical neighbourhood structure during incidental word learning—limiting opportunities for strategically engaging prior knowledge—and tested the hypothesis that prior knowledge would provide additional support during subsequent consolidation. Children (Experiment 1) and adults (Experiments 2, 3) were presented with 15 pseudowords embedded in spoken stories, and then tested on their recognition and recall of the new word-forms immediately, the next day, and one week later. The pseudowords had either no, one, or many English phonological neighbours, varying the potential connections to existing knowledge. After hearing the pseudowords in a spoken story context, children did not benefit from phonological neighbours in recall, and were better at recognising items without neighbours. Adults showed a recall benefit for pseudowords with lexical neighbours when they could read along with the story (Experiment 2), but this benefit was less apparent when written text was removed (Experiment 3). The neighbour influence did not change with opportunities for consolidation in any experiment, nor did it relate to learners’ existing vocabulary ability. Exploratory analyses revealed that children experienced bigger benefits from offline consolidation overall, with adults outperforming children only for many-neighbour items one week after exposure. We discuss how the neighbour benefit in word learning may be constrained by learning context, and how the enhanced benefits of offline consolidation earlier in development extend to vocabulary learning in more naturalistic contexts.
+abstract: Children and adults benefit from a new word’s phonological neighbors during explicit vocabulary instruction, suggesting that related prior knowledge can support new learning. This study examined the influence of lexical neighborhood structure during incidental word learning—limiting opportunities for strategically engaging prior knowledge—and tested the hypothesis that prior knowledge would provide additional support during subsequent consolidation. Children aged 8–10 years (Experiment 1) and adults (Experiment 2) were presented with 15 pseudowords embedded in a spoken story with illustrations, and were then tested on their recognition and recall of the new word-forms immediately, the next day, and one week later. The pseudowords had either no, one, or many English phonological neighbors, varying the potential connections to existing knowledge. After encountering the pseudowords in this incidental training paradigm, neither children nor adults benefited from phonological neighbors in recall, and children were better at recognizing items without neighbors. The neighbor influence did not change with opportunities for consolidation in either experiment, nor did it relate to learners’ existing vocabulary ability. Exploratory analyses revealed that children experienced bigger benefits from offline consolidation overall, with adults outperforming children only for many-neighbor items one week after exposure. We discuss how the neighbor benefit in word learning may be constrained by learning context, and how the enhanced benefits of offline consolidation in childhood extend to vocabulary learning in more naturalistic contexts.
 authors:
 - admin
 - M. Gareth Gaskell
@@ -8,7 +8,7 @@ authors:
 - Charlotte Dean
 - Lisa M. Henderson
 date: "2021-03-12T00:00:00Z"
-doi: "10.31234/osf.io/vm5ad"
+doi: "10.1037/xlm0001080"
 featured: false
 image:
   caption: 'Image credit: []()'
@@ -16,11 +16,11 @@ image:
   preview_only: true
 projects:
 - phd-work
-publication: ""
+publication: "Journal of Experimental Child Psychology: Learning, Memory, and Cognition"
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2020-08-04T00:00:00Z"
+- "2"
+publishDate: "2021-10-01T00:00:00Z"
 slides: 
 summary: 
 tags:
@@ -28,7 +28,7 @@ tags:
 - Word learning
 - Consolidation
 - Prior knowledge
-title: "The role of prior lexical knowledge in children’s and adults’ word learning from stories"
+title: "The role of prior lexical knowledge in children’s and adults’ incidental word learning from illustrated stories"
 url_code: ''
 url_dataset: 'https://osf.io/stx6q/'
 url_pdf: 'https://psyarxiv.com/vm5ad'

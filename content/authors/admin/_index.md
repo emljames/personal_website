@@ -49,5 +49,5 @@ user_groups:
 
 Welcome to my website. This is my way of sharing my latest research activities, publications, and general thoughts. 
 
-I am currently a Postdoctoral Researcher at the Department of Experimental Psychology, University of Oxford. You can find out more about my research projects below.
+I am currently based at the University of Oxford, as a Postdoctoral Researcher at the Department of Experimental Psychology and Lecturer at St. Catherine's College. You can find out more about my research projects below.
 
