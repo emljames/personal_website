@@ -16,7 +16,7 @@ image:
   preview_only: true
 projects:
 - phd-work
-publication: "Journal of Experimental Child Psychology: Learning, Memory, and Cognition"
+publication: "*Journal of Experimental Child Psychology: Learning, Memory, and Cognition*"
 publication_short: ""
 publication_types:
 - "2"
