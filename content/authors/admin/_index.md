@@ -39,7 +39,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/emljames
-
 superuser: true
 title: Emma James
 user_groups:
@@ -47,7 +46,9 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website. This is my way of sharing my latest research activities, publications, and general thoughts. 
+I am currently based at the University of Oxford, as a Postdoctoral Researcher at the Department of Experimental Psychology and Lecturer at St. Catherine's College. From October 2022, I will return to the University of York as a Lecturer in Psychology.
 
-I am currently based at the University of Oxford, as a Postdoctoral Researcher at the Department of Experimental Psychology and Lecturer at St. Catherine's College. You can find out more about my research projects below.
+I am currently the Early Career Researcher Representative on the committee for the Experimental Psychology Society, and would be very glad to discuss ideas for supporting the ECR community.
+
+You can find out more about my research projects below.
 
