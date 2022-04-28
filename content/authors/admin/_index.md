@@ -46,7 +46,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently based at the University of Oxford, as a Postdoctoral Researcher at the Department of Experimental Psychology and Lecturer at St. Catherine's College. From October 2022, I will return to the University of York as a Lecturer in Psychology.
+I am currently based at the University of Oxford, as a Postdoctoral Researcher in the Department of Experimental Psychology and Lecturer at St. Catherine's College. From October 2022, I will be returning to the University of York as a Lecturer in Psychology.
 
 I am currently the Early Career Researcher Representative on the committee for the Experimental Psychology Society, and would be very glad to discuss ideas for supporting the ECR community.
 
