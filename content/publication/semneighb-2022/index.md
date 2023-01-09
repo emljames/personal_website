@@ -15,11 +15,11 @@ image:
   preview_only: true
 projects:
 - phd-work
-publication: ""
+publication: "*Language, Cognition, and Neuroscience*"
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2022-04-08T00:00:00Z"
+- "2"
+publishDate: "2022-11-02T00:00:00Z"
 slides: 
 summary: 
 tags:
@@ -30,7 +30,7 @@ tags:
 title: "Word learning in the context of semantic prior knowledge: Evidence of interference from feature-based neighbours in children and adults"
 url_code: ''
 url_dataset: 'https://osf.io/35ftn/'
-url_pdf: 'https://psyarxiv.com/qe5gc/'
+url_pdf: 'https://doi.org/10.1080/23273798.2022.2102198'
 url_poster: ''
 url_project: ""
 url_slides: ""

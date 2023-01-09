@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: ""
   url: ""
-role: "Researcher in Psychology"
+role: "Developmental Psychologist"
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,9 +46,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Lecturer in Psychology at the University of York. My research fundamentally concerns how we learn. How do we learn new words, and how might the underlying processes change with development? How does language impact literacy, and what are the implications for later life outcomes? I would welcome contact from potential PhD students interested in investigating topics within this remit.
+I am a Lecturer in Psychology at the University of York. My research fundamentally concerns how we learn. How do we learn new words, and how might the underlying processes change with development? How does language impact literacy, and what are the implications for later life outcomes? I welcome contact from students interested in pursuing PhD research in related topics - please do get in touch via email. 
 
 I am currently the Early Career Researcher Representative on the committee for the Experimental Psychology Society, and would be very glad to discuss ideas for supporting the ECR community.
 
-You can find out more about my research projects below.
+You can find out more about my research projects below. 
 
