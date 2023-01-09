@@ -2,69 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Emma James</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/talk/</link>
+      <atom:link href="https://www.emma-james.co.uk/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://www.emma-james.co.uk/talk/</link>
     </image>
     
     <item>
-      <title>9th EPS Frith Prize Lecture: Title TBC</title>
-      <link>/talk/01-21-eps-frith/</link>
-      <pubDate>Wed, 06 Jan 2021 13:00:00 +0000</pubDate>
-      <guid>/talk/01-21-eps-frith/</guid>
+      <title>Gorilla Presents... Speech Production Research Online</title>
+      <link>https://www.emma-james.co.uk/talk/04-21-gorilla-speech/</link>
+      <pubDate>Thu, 29 Apr 2021 20:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/talk/04-21-gorilla-speech/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>UCL Language and Cognition Seminar: Title TBC</title>
-      <link>/talk/11-20-ucl/</link>
-      <pubDate>Wed, 25 Nov 2020 11:00:00 +0000</pubDate>
-      <guid>/talk/11-20-ucl/</guid>
+      <title>Word learning through the lens of prior knowledge</title>
+      <link>https://www.emma-james.co.uk/talk/01-21-eps-frith/</link>
+      <pubDate>Wed, 06 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/talk/01-21-eps-frith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It&#39;ll be alright on the night? Exploring bedtime benefits for vocabulary learning</title>
+      <link>https://www.emma-james.co.uk/talk/11-20-ucl/</link>
+      <pubDate>Wed, 25 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/talk/11-20-ucl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When the wabon flew to the intergalatic zoo: Accessing prior lexical knowledge in explicit and incidental word learning</title>
-      <link>/talk/09-20-llc-rhul/</link>
+      <link>https://www.emma-james.co.uk/talk/09-20-llc-rhul/</link>
       <pubDate>Fri, 04 Sep 2020 11:00:00 +0000</pubDate>
-      <guid>/talk/09-20-llc-rhul/</guid>
+      <guid>https://www.emma-james.co.uk/talk/09-20-llc-rhul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn, Sleep, Recall, Repeat</title>
-      <link>/talk/08-20-memtalk/</link>
+      <link>https://www.emma-james.co.uk/talk/08-20-memtalk/</link>
       <pubDate>Wed, 26 Aug 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/08-20-memtalk/</guid>
+      <guid>https://www.emma-james.co.uk/talk/08-20-memtalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/talk/07-20-cogsci/</link>
+      <link>https://www.emma-james.co.uk/talk/07-20-cogsci/</link>
       <pubDate>Wed, 29 Jul 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/07-20-cogsci/</guid>
+      <guid>https://www.emma-james.co.uk/talk/07-20-cogsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A (half) marathon not a sprint: Preparing to conduct multi-session memory studies online</title>
-      <link>/talk/06-20-beonline/</link>
+      <link>https://www.emma-james.co.uk/talk/06-20-beonline/</link>
       <pubDate>Tue, 30 Jun 2020 10:00:00 +0000</pubDate>
-      <guid>/talk/06-20-beonline/</guid>
+      <guid>https://www.emma-james.co.uk/talk/06-20-beonline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open research means open conversation</title>
-      <link>/talk/06-20-yor/</link>
+      <link>https://www.emma-james.co.uk/talk/06-20-yor/</link>
       <pubDate>Thu, 25 Jun 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/06-20-yor/</guid>
+      <guid>https://www.emma-james.co.uk/talk/06-20-yor/</guid>
       <description></description>
     </item>
     

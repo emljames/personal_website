@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hannah Tickle | Emma James</title>
-    <link>/author/hannah-tickle/</link>
-      <atom:link href="/author/hannah-tickle/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/author/hannah-tickle/</link>
+      <atom:link href="https://www.emma-james.co.uk/author/hannah-tickle/index.xml" rel="self" type="application/rss+xml" />
     <description>Hannah Tickle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hannah Tickle</title>
-      <link>/author/hannah-tickle/</link>
+      <link>https://www.emma-james.co.uk/author/hannah-tickle/</link>
     </image>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/publication/memrise-2020/</link>
+      <link>https://www.emma-james.co.uk/publication/memrise-2020/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/memrise-2020/</guid>
+      <guid>https://www.emma-james.co.uk/publication/memrise-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/talk/07-20-cogsci/</link>
+      <link>https://www.emma-james.co.uk/talk/07-20-cogsci/</link>
       <pubDate>Wed, 29 Jul 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/07-20-cogsci/</guid>
+      <guid>https://www.emma-james.co.uk/talk/07-20-cogsci/</guid>
       <description></description>
     </item>
     

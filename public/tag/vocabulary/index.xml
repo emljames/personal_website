@@ -2,29 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vocabulary | Emma James</title>
-    <link>/tag/vocabulary/</link>
-      <atom:link href="/tag/vocabulary/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/tag/vocabulary/</link>
+      <atom:link href="https://www.emma-james.co.uk/tag/vocabulary/index.xml" rel="self" type="application/rss+xml" />
     <description>Vocabulary</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Fri, 04 Sep 2020 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Vocabulary</title>
-      <link>/tag/vocabulary/</link>
+      <link>https://www.emma-james.co.uk/tag/vocabulary/</link>
     </image>
     
     <item>
+      <title>Word learning in the context of semantic prior knowledge: Evidence of interference from feature-based neighbours in children and adults</title>
+      <link>https://www.emma-james.co.uk/publication/semneighb-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/semneighb-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of prior lexical knowledge in children’s and adults’ incidental word learning from illustrated stories</title>
+      <link>https://www.emma-james.co.uk/publication/storyneighb-2020/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/storyneighb-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When the wabon flew to the intergalatic zoo: Accessing prior lexical knowledge in explicit and incidental word learning</title>
-      <link>/talk/09-20-llc-rhul/</link>
+      <link>https://www.emma-james.co.uk/talk/09-20-llc-rhul/</link>
       <pubDate>Fri, 04 Sep 2020 11:00:00 +0000</pubDate>
-      <guid>/talk/09-20-llc-rhul/</guid>
+      <guid>https://www.emma-james.co.uk/talk/09-20-llc-rhul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using prior knowledge to build vocabulary</title>
-      <link>/post/devsci-2019-summary/</link>
+      <link>https://www.emma-james.co.uk/post/devsci-2019-summary/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/devsci-2019-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/devsci-2019-summary/</guid>
       <description>&lt;p&gt;Children with good literacy skills are more likely to enjoy reading, read more texts of increasing difficulty, and learn more words as a result. This snowballing literacy development is known as the &lt;em&gt;Matthew effect&lt;/em&gt;. While the rich in vocabulary knowledge get richer, children with poor vocabulary fall increasingly far behind. Yet differences in word learning are not only seen in reading contexts. We asked how a learner&amp;rsquo;s existing vocabulary might help them to &lt;em&gt;remember&lt;/em&gt; new words. We found that children and adults both used their prior knowledge to help them learn new words, but that children might be better placed to overcome any limitations.&lt;/p&gt;
 &lt;p&gt;To test the role of prior knowledge, we taught participants made-up words with different numbers of “neighbours” in English. A word is a neighbour if it involves a single sound swap. For example, the made-up word &lt;em&gt;solly&lt;/em&gt; has neighbours in &lt;em&gt;silly, jolly, sally, folly,&lt;/em&gt; etc. We predicted that prior knowledge of neighbours would help in learning made-up words. In contrast, the made-up word &lt;em&gt;peflin&lt;/em&gt; has no neighbours in English, making it harder for people to use their prior knowledge to help. After learning the new words, we tested participants’ ability to remember them when prompted with the starting sounds. Could people recall &lt;em&gt;peflin&lt;/em&gt; given only &lt;em&gt;pe-&lt;/em&gt;? Participants completed the same memory task the next day and one week later. These later tests were important because sleep can improve memory for new words, and changes how they are stored in long-term vocabulary.&lt;/p&gt;
 &lt;p&gt;Immediately after learning, people were much better at remembering words with neighbours. This means that both children and adults use their prior knowledge to help them learn. Intriguingly, it was the words &lt;em&gt;without&lt;/em&gt; neighbours that improved the most across tests. Moreover, children improved more than adults, so they were equally good at remembering words with and without neighbours one week later.  This fits with the idea that children’s memory might benefit more from sleep compared to adults (although sleep is only one possible explanation, since we didn’t measure sleep itself in this study). A better ability to improve new memories is helpful for children, as they typically have lots of new information to learn and less prior knowledge to help them learn it.&lt;/p&gt;
@@ -39,9 +55,9 @@
     
     <item>
       <title>It&#39;ll be alright on the night</title>
-      <link>/post/jcpp-2020-summary/</link>
+      <link>https://www.emma-james.co.uk/post/jcpp-2020-summary/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/jcpp-2020-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/jcpp-2020-summary/</guid>
       <description>&lt;p&gt;Sleep helps us to learn new words, but children with reading comprehension difficulties often have poor memory for new vocabulary. In our recent study, we asked whether their vocabulary problems lie in what happens during sleep.&lt;/p&gt;
 &lt;p&gt;We taught children the names of unusual animals and plants. Some particular favourites were the shaggy &lt;em&gt;komondor&lt;/em&gt; dog and the rainbow &lt;em&gt;deglupta&lt;/em&gt; tree, pictured below&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The words were split across two sets of learning and test sessions. In one set children learned the new words first thing in the morning, and in the other set they learned the new words at the end of the evening. Straight after each learning session, they completed some memory tests for the words they had learned. Children then sat the same tests again 12 and 24 hours later, allowing us to trace how their memory changed over wake and sleep.&lt;/p&gt;
 &lt;table&gt;&lt;tr&gt;
@@ -68,18 +84,10 @@
     </item>
     
     <item>
-      <title>The role of prior lexical knowledge in children’s and adults’ word learning from stories</title>
-      <link>/publication/storyneighb-2020/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/storyneighb-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Puzzle of Vocabulary Growth</title>
-      <link>/post/nbr-2017-summary/</link>
+      <link>https://www.emma-james.co.uk/post/nbr-2017-summary/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/nbr-2017-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/nbr-2017-summary/</guid>
       <description>&lt;p&gt;Think about doing a jigsaw puzzle. Progress is often slow to begin with. It takes a while to work out how the thousands of tiny pieces fit within the bigger picture. A bit further down the line, you might have an outline. You&amp;rsquo;ve clustered some pieces together in their approximate space. The further you get in building the framework, the easier it becomes for you to place each individual piece. This phenomenon is true of learning new topics too &amp;mdash; we build cognitive frameworks that make it easier to learn related information. Yet, we don&amp;rsquo;t know much about how language learners use their prior knowledge. We asked, do children with better vocabulary knowledge find it easier to learn new words?&lt;/p&gt;
 &lt;img src=&#34;featured.png&#34; width=&#34;200&#34;/&gt;
 &lt;p&gt;To look at this question, we re-analysed data from five experiments of word learning in children. Each experiment involved teaching children some made-up words (for example, &lt;em&gt;dolpheg&lt;/em&gt;) that were similar to real words in English (&lt;em&gt;dolphin&lt;/em&gt;). Researchers then tested whether the two words became integrated in vocabulary. The integration task measured how quickly the children could detect a short pause inserted into the real words (e.g., &lt;em&gt;dolph__in&lt;/em&gt;), to see whether the made-up words were competing for recognition. When a new word is integrated into vocabulary, response times slow down. The studies each found that sleep was important for this integration to happen: the new words interfered with children’s ability to process real words only when tested the next day.&lt;/p&gt;
@@ -95,9 +103,9 @@
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/project/memrise-project/</link>
+      <link>https://www.emma-james.co.uk/project/memrise-project/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/memrise-project/</guid>
+      <guid>https://www.emma-james.co.uk/project/memrise-project/</guid>
       <description>&lt;p&gt;Studies of word learning and consolidation have tempting practical implications. &lt;em&gt;Can we target sleep problems to help with learning difficulties? Might we remember information better if we sleep straight after learning it?&lt;/em&gt; However, our understanding of sleep and word learning mostly comes from lab experiments, which control lots of other things about the learning environment. This means that the benefits of sleep might not be as striking in real-world learning.&lt;/p&gt;
 &lt;p&gt;In this project, I ask whether there is observable evidence for sleep-associated benefits in everyday language learning. Using app data from the foreign language-learning platform 
 &lt;a href=&#34;https://www.memrise.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Memrise&lt;/em&gt;&lt;/a&gt;, we are testing whether memory for new words is better after a period of sleep compared to a period of wake. If it is, we can start to explore what else might support vocabulary learning in this context.&lt;/p&gt;
@@ -106,9 +114,9 @@
     
     <item>
       <title>Individual differences in word learning and consolidation</title>
-      <link>/project/phd-work/</link>
+      <link>https://www.emma-james.co.uk/project/phd-work/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/phd-work/</guid>
+      <guid>https://www.emma-james.co.uk/project/phd-work/</guid>
       <description>&lt;p&gt;My PhD research aimed to understand individual differences in word learning and consolidation. Why do some children find word learning harder than others, and what happens to word memories in the longer term? Together with 
 &lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/lh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Lisa Henderson&lt;/a&gt; and 
 &lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/mgg5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Gareth Gaskell&lt;/a&gt;, we looked at how word learning might build on existing vocabulary knowledge.&lt;/p&gt;
@@ -118,25 +126,25 @@
     
     <item>
       <title>Offline consolidation supersedes prior knowledge benefits in children&#39;s (but not adults&#39;) word learning</title>
-      <link>/publication/devsci-2019/</link>
+      <link>https://www.emma-james.co.uk/publication/devsci-2019/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/devsci-2019/</guid>
+      <guid>https://www.emma-james.co.uk/publication/devsci-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consolidating new words from repetitive versus multiple stories: Prior knowledge matters</title>
-      <link>/publication/jecp-2018/</link>
+      <link>https://www.emma-james.co.uk/publication/jecp-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/jecp-2018/</guid>
+      <guid>https://www.emma-james.co.uk/publication/jecp-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consolidation of vocabulary during sleep: the rich get richer?</title>
-      <link>/publication/nbr-2017/</link>
+      <link>https://www.emma-james.co.uk/publication/nbr-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nbr-2017/</guid>
+      <guid>https://www.emma-james.co.uk/publication/nbr-2017/</guid>
       <description></description>
     </item>
     

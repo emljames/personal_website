@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yolanda Koutraki | Emma James</title>
-    <link>/author/yolanda-koutraki/</link>
-      <atom:link href="/author/yolanda-koutraki/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/author/yolanda-koutraki/</link>
+      <atom:link href="https://www.emma-james.co.uk/author/yolanda-koutraki/index.xml" rel="self" type="application/rss+xml" />
     <description>Yolanda Koutraki</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Wed, 29 Jul 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Wed, 29 Jul 2020 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yolanda Koutraki</title>
-      <link>/author/yolanda-koutraki/</link>
+      <link>https://www.emma-james.co.uk/author/yolanda-koutraki/</link>
     </image>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/talk/07-20-cogsci/</link>
+      <link>https://www.emma-james.co.uk/talk/07-20-cogsci/</link>
       <pubDate>Wed, 29 Jul 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/07-20-cogsci/</guid>
+      <guid>https://www.emma-james.co.uk/talk/07-20-cogsci/</guid>
       <description></description>
     </item>
     

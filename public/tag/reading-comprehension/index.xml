@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading comprehension | Emma James</title>
-    <link>/tag/reading-comprehension/</link>
-      <atom:link href="/tag/reading-comprehension/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/tag/reading-comprehension/</link>
+      <atom:link href="https://www.emma-james.co.uk/tag/reading-comprehension/index.xml" rel="self" type="application/rss+xml" />
     <description>Reading comprehension</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Reading comprehension</title>
-      <link>/tag/reading-comprehension/</link>
+      <link>https://www.emma-james.co.uk/tag/reading-comprehension/</link>
     </image>
     
     <item>
+      <title>Heterogeneity in children’s reading comprehension difficulties: a latent class approach</title>
+      <link>https://www.emma-james.co.uk/publication/heterocomp-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/heterocomp-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precursors and consequences of reading comprehension difficulties</title>
+      <link>https://www.emma-james.co.uk/project/longitudinal-comprehension/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/project/longitudinal-comprehension/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project team:&lt;/strong&gt; Kate Nation, Paul Thompson, Lucy Bowes&lt;/p&gt;
+&lt;p&gt;In this project, we are interested in understanding why some children struggle with reading comprehension. Reading comprehension is a complex skill that draws upon many aspects of language and cognition: once we have successfully read a word from the page, we need to understand what it means, integrate it within the context of the sentence, update our understanding of the text we are reading, and hold all of this in mind as we progress onward. There may be many different reasons, then, why different children find comprehension difficult. To get at this question, we need to measure those abilities in very large numbers of children, and assess at the broader context in which different strengths and weaknesses occur.&lt;/p&gt;
+&lt;p&gt;Fortunately, we don&amp;rsquo;t need to collect all that data ourselves. In this project, we are using data from the Avon Longitudinal Study of Parents and Children (
+&lt;a href=&#34;http://www.bristol.ac.uk/alspac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALSPAC&lt;/a&gt;). ALSPAC recruited pregnant mothers into the study in the early 1990s, and continues to follow their offspring as they now approach their 30th birthday. We will be looking at the language and cognitive abilities of ~7000 children who completed a reading assessment at age 9 in attempt to understand some of the heterogeneity in reading comprehension difficulties. We will then be able to look at earlier predictors of reading comprehension difficulties to help us in understanding risk for comprehension problems, and document the consequences for educational and professional outcomes. Finally, we will examine whether comprehension difficulties might be associated with broader social and emotional problems, as is the case for other types of reading and language difficulty.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>From little to large: the importance of understanding morphemes for understanding texts</title>
-      <link>/post/jrir-2020-summary/</link>
+      <link>https://www.emma-james.co.uk/post/jrir-2020-summary/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/jrir-2020-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/jrir-2020-summary/</guid>
       <description>&lt;p&gt;If you can bear to read the news at the moment, you will likely come across words you had no reason to encounter before 2020. How is it that we can so readily skim over new terms such as &lt;em&gt;maskless&lt;/em&gt;, &lt;em&gt;super-spreader&lt;/em&gt;, and &lt;em&gt;pre-lockdown&lt;/em&gt;? Well, these words are each built from smaller units of meaning called morphemes. We know that &lt;em&gt;–less&lt;/em&gt; means “without”, adding &lt;em&gt;–er&lt;/em&gt; refers to a person that does something, and &lt;em&gt;pre-&lt;/em&gt; means “before”. This awareness of morphemes can help us understand language even when words are unfamiliar. Thus, morphological awareness likely helps developing readers as they face increasingly challenging texts. We put this proposal to the test in our recent study of reading comprehension in 6- to 13-year-old children.&lt;/p&gt;
 &lt;p&gt;We designed six tasks to assess three different types of morphology: compounds, inflections, and derivations (described in the table below). We assessed awareness of each type in two ways. In one task, children chose the most appropriate transformation between options. In the other, children produced a morphological transformation themselves. The tasks included both real and made-up words, to make sure they were measuring more than just vocabulary knowledge.&lt;/p&gt;
  &lt;img src=&#34;task_table.png&#34; alt=&#34;Tasks used to assess different types of morphology&#34;/&gt;
@@ -30,17 +50,17 @@
     
     <item>
       <title>The relations between morphological awareness and reading comprehension in beginner readers to young adolescents</title>
-      <link>/publication/jrir-2020/</link>
+      <link>https://www.emma-james.co.uk/publication/jrir-2020/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jrir-2020/</guid>
+      <guid>https://www.emma-james.co.uk/publication/jrir-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of morphological awareness in reading comprehension</title>
-      <link>/project/ma-lancaster/</link>
+      <link>https://www.emma-james.co.uk/project/ma-lancaster/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/project/ma-lancaster/</guid>
+      <guid>https://www.emma-james.co.uk/project/ma-lancaster/</guid>
       <description>&lt;p&gt;After completing my undergraduate degree, I worked on an ESRC-funded project on the relations between morphological awareness and reading comprehension, led by Professor Kate Cain (Lancaster University) and Professor Xiuli Tong (The University of Hong Kong). You can find out about this project here: 
 &lt;a href=&#34;http://www.psych.lancs.ac.uk/esrc-morphology/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.psych.lancs.ac.uk/esrc-morphology/&lt;/a&gt;&lt;/p&gt;
 </description>

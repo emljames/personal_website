@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research methods | Emma James</title>
-    <link>/tag/research-methods/</link>
-      <atom:link href="/tag/research-methods/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/tag/research-methods/</link>
+      <atom:link href="https://www.emma-james.co.uk/tag/research-methods/index.xml" rel="self" type="application/rss+xml" />
     <description>Research methods</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Thu, 29 Apr 2021 20:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Research methods</title>
-      <link>/tag/research-methods/</link>
+      <link>https://www.emma-james.co.uk/tag/research-methods/</link>
     </image>
     
     <item>
+      <title>Gorilla Presents... Speech Production Research Online</title>
+      <link>https://www.emma-james.co.uk/talk/04-21-gorilla-speech/</link>
+      <pubDate>Thu, 29 Apr 2021 20:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/talk/04-21-gorilla-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tools and tips for collecting spoken responses online</title>
-      <link>/post/online-voice-recordings/</link>
+      <link>https://www.emma-james.co.uk/post/online-voice-recordings/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/online-voice-recordings/</guid>
+      <guid>https://www.emma-james.co.uk/post/online-voice-recordings/</guid>
       <description>&lt;p&gt;Recently, I gave a 
 &lt;a href=&#34;https://www.emma-james.co.uk/talk/06-20-beonline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;talk&lt;/a&gt; on running multi-session studies online at the 2020 
 &lt;a href=&#34;https://beonline.research.sc/2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeOnline conference&lt;/a&gt;. I mentioned that we had recently collected vocal responses online, but that I didn’t have time to talk about it. So, here’s a little bit more about my experiences.&lt;/p&gt;

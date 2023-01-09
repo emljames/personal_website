@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research summary | Emma James</title>
-    <link>/category/research-summary/</link>
-      <atom:link href="/category/research-summary/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/category/research-summary/</link>
+      <atom:link href="https://www.emma-james.co.uk/category/research-summary/index.xml" rel="self" type="application/rss+xml" />
     <description>Research summary</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Research summary</title>
-      <link>/category/research-summary/</link>
+      <link>https://www.emma-james.co.uk/category/research-summary/</link>
     </image>
     
     <item>
       <title>From little to large: the importance of understanding morphemes for understanding texts</title>
-      <link>/post/jrir-2020-summary/</link>
+      <link>https://www.emma-james.co.uk/post/jrir-2020-summary/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/jrir-2020-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/jrir-2020-summary/</guid>
       <description>&lt;p&gt;If you can bear to read the news at the moment, you will likely come across words you had no reason to encounter before 2020. How is it that we can so readily skim over new terms such as &lt;em&gt;maskless&lt;/em&gt;, &lt;em&gt;super-spreader&lt;/em&gt;, and &lt;em&gt;pre-lockdown&lt;/em&gt;? Well, these words are each built from smaller units of meaning called morphemes. We know that &lt;em&gt;–less&lt;/em&gt; means “without”, adding &lt;em&gt;–er&lt;/em&gt; refers to a person that does something, and &lt;em&gt;pre-&lt;/em&gt; means “before”. This awareness of morphemes can help us understand language even when words are unfamiliar. Thus, morphological awareness likely helps developing readers as they face increasingly challenging texts. We put this proposal to the test in our recent study of reading comprehension in 6- to 13-year-old children.&lt;/p&gt;
 &lt;p&gt;We designed six tasks to assess three different types of morphology: compounds, inflections, and derivations (described in the table below). We assessed awareness of each type in two ways. In one task, children chose the most appropriate transformation between options. In the other, children produced a morphological transformation themselves. The tasks included both real and made-up words, to make sure they were measuring more than just vocabulary knowledge.&lt;/p&gt;
  &lt;img src=&#34;task_table.png&#34; alt=&#34;Tasks used to assess different types of morphology&#34;/&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Using prior knowledge to build vocabulary</title>
-      <link>/post/devsci-2019-summary/</link>
+      <link>https://www.emma-james.co.uk/post/devsci-2019-summary/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/devsci-2019-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/devsci-2019-summary/</guid>
       <description>&lt;p&gt;Children with good literacy skills are more likely to enjoy reading, read more texts of increasing difficulty, and learn more words as a result. This snowballing literacy development is known as the &lt;em&gt;Matthew effect&lt;/em&gt;. While the rich in vocabulary knowledge get richer, children with poor vocabulary fall increasingly far behind. Yet differences in word learning are not only seen in reading contexts. We asked how a learner&amp;rsquo;s existing vocabulary might help them to &lt;em&gt;remember&lt;/em&gt; new words. We found that children and adults both used their prior knowledge to help them learn new words, but that children might be better placed to overcome any limitations.&lt;/p&gt;
 &lt;p&gt;To test the role of prior knowledge, we taught participants made-up words with different numbers of “neighbours” in English. A word is a neighbour if it involves a single sound swap. For example, the made-up word &lt;em&gt;solly&lt;/em&gt; has neighbours in &lt;em&gt;silly, jolly, sally, folly,&lt;/em&gt; etc. We predicted that prior knowledge of neighbours would help in learning made-up words. In contrast, the made-up word &lt;em&gt;peflin&lt;/em&gt; has no neighbours in English, making it harder for people to use their prior knowledge to help. After learning the new words, we tested participants’ ability to remember them when prompted with the starting sounds. Could people recall &lt;em&gt;peflin&lt;/em&gt; given only &lt;em&gt;pe-&lt;/em&gt;? Participants completed the same memory task the next day and one week later. These later tests were important because sleep can improve memory for new words, and changes how they are stored in long-term vocabulary.&lt;/p&gt;
 &lt;p&gt;Immediately after learning, people were much better at remembering words with neighbours. This means that both children and adults use their prior knowledge to help them learn. Intriguingly, it was the words &lt;em&gt;without&lt;/em&gt; neighbours that improved the most across tests. Moreover, children improved more than adults, so they were equally good at remembering words with and without neighbours one week later.  This fits with the idea that children’s memory might benefit more from sleep compared to adults (although sleep is only one possible explanation, since we didn’t measure sleep itself in this study). A better ability to improve new memories is helpful for children, as they typically have lots of new information to learn and less prior knowledge to help them learn it.&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>It&#39;ll be alright on the night</title>
-      <link>/post/jcpp-2020-summary/</link>
+      <link>https://www.emma-james.co.uk/post/jcpp-2020-summary/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/jcpp-2020-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/jcpp-2020-summary/</guid>
       <description>&lt;p&gt;Sleep helps us to learn new words, but children with reading comprehension difficulties often have poor memory for new vocabulary. In our recent study, we asked whether their vocabulary problems lie in what happens during sleep.&lt;/p&gt;
 &lt;p&gt;We taught children the names of unusual animals and plants. Some particular favourites were the shaggy &lt;em&gt;komondor&lt;/em&gt; dog and the rainbow &lt;em&gt;deglupta&lt;/em&gt; tree, pictured below&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The words were split across two sets of learning and test sessions. In one set children learned the new words first thing in the morning, and in the other set they learned the new words at the end of the evening. Straight after each learning session, they completed some memory tests for the words they had learned. Children then sat the same tests again 12 and 24 hours later, allowing us to trace how their memory changed over wake and sleep.&lt;/p&gt;
 &lt;table&gt;&lt;tr&gt;
@@ -77,9 +77,9 @@
     
     <item>
       <title>The Puzzle of Vocabulary Growth</title>
-      <link>/post/nbr-2017-summary/</link>
+      <link>https://www.emma-james.co.uk/post/nbr-2017-summary/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/nbr-2017-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/nbr-2017-summary/</guid>
       <description>&lt;p&gt;Think about doing a jigsaw puzzle. Progress is often slow to begin with. It takes a while to work out how the thousands of tiny pieces fit within the bigger picture. A bit further down the line, you might have an outline. You&amp;rsquo;ve clustered some pieces together in their approximate space. The further you get in building the framework, the easier it becomes for you to place each individual piece. This phenomenon is true of learning new topics too &amp;mdash; we build cognitive frameworks that make it easier to learn related information. Yet, we don&amp;rsquo;t know much about how language learners use their prior knowledge. We asked, do children with better vocabulary knowledge find it easier to learn new words?&lt;/p&gt;
 &lt;img src=&#34;featured.png&#34; width=&#34;200&#34;/&gt;
 &lt;p&gt;To look at this question, we re-analysed data from five experiments of word learning in children. Each experiment involved teaching children some made-up words (for example, &lt;em&gt;dolpheg&lt;/em&gt;) that were similar to real words in English (&lt;em&gt;dolphin&lt;/em&gt;). Researchers then tested whether the two words became integrated in vocabulary. The integration task measured how quickly the children could detect a short pause inserted into the real words (e.g., &lt;em&gt;dolph__in&lt;/em&gt;), to see whether the made-up words were competing for recognition. When a new word is integrated into vocabulary, response times slow down. The studies each found that sleep was important for this integration to happen: the new words interfered with children’s ability to process real words only when tested the next day.&lt;/p&gt;

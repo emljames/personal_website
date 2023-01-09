@@ -2,21 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development | Emma James</title>
-    <link>/tag/development/</link>
-      <atom:link href="/tag/development/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/tag/development/</link>
+      <atom:link href="https://www.emma-james.co.uk/tag/development/index.xml" rel="self" type="application/rss+xml" />
     <description>development</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>development</title>
-      <link>/tag/development/</link>
+      <link>https://www.emma-james.co.uk/tag/development/</link>
     </image>
     
     <item>
+      <title>Precursors and consequences of reading comprehension difficulties</title>
+      <link>https://www.emma-james.co.uk/project/longitudinal-comprehension/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/project/longitudinal-comprehension/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project team:&lt;/strong&gt; Kate Nation, Paul Thompson, Lucy Bowes&lt;/p&gt;
+&lt;p&gt;In this project, we are interested in understanding why some children struggle with reading comprehension. Reading comprehension is a complex skill that draws upon many aspects of language and cognition: once we have successfully read a word from the page, we need to understand what it means, integrate it within the context of the sentence, update our understanding of the text we are reading, and hold all of this in mind as we progress onward. There may be many different reasons, then, why different children find comprehension difficult. To get at this question, we need to measure those abilities in very large numbers of children, and assess at the broader context in which different strengths and weaknesses occur.&lt;/p&gt;
+&lt;p&gt;Fortunately, we don&amp;rsquo;t need to collect all that data ourselves. In this project, we are using data from the Avon Longitudinal Study of Parents and Children (
+&lt;a href=&#34;http://www.bristol.ac.uk/alspac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALSPAC&lt;/a&gt;). ALSPAC recruited pregnant mothers into the study in the early 1990s, and continues to follow their offspring as they now approach their 30th birthday. We will be looking at the language and cognitive abilities of ~7000 children who completed a reading assessment at age 9 in attempt to understand some of the heterogeneity in reading comprehension difficulties. We will then be able to look at earlier predictors of reading comprehension difficulties to help us in understanding risk for comprehension problems, and document the consequences for educational and professional outcomes. Finally, we will examine whether comprehension difficulties might be associated with broader social and emotional problems, as is the case for other types of reading and language difficulty.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Identifying difficulties in reading comprehension</title>
-      <link>/project/poor-comprehenders/</link>
+      <link>https://www.emma-james.co.uk/project/poor-comprehenders/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/poor-comprehenders/</guid>
+      <guid>https://www.emma-james.co.uk/project/poor-comprehenders/</guid>
       <description>&lt;p&gt;Approximately 5-10% of children are thought to have difficulties with reading comprehension despite being able to read very accurately. Together with Jessie Ricketts, Danielle Colenbrander, Lisa Henderson, and Holly Joseph, we recently held a 
 &lt;a href=&#34;https://sites.google.com/york.ac.uk/poor-comprehender-workshop/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop to discuss research in this field&lt;/a&gt;. A key aim was to think about current practices for identifying children with specific reading comprehension difficulties.&lt;/p&gt;
 &lt;p&gt;Following on from the workshop, we are combining data from previous projects to understand differences in measures of reading comprehension. We want to know whether currently used assessments for reading comprehension identify the same kinds of comprehension difficulties as previous measures, so that we can continue to build upon this research.&lt;/p&gt;
@@ -25,22 +37,23 @@
     
     <item>
       <title>Understanding memory processes across development</title>
-      <link>/project/developmental-loops/</link>
+      <link>https://www.emma-james.co.uk/project/developmental-loops/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/developmental-loops/</guid>
+      <guid>https://www.emma-james.co.uk/project/developmental-loops/</guid>
       <description>&lt;p&gt;The events we experience contain lots of different types of information, such as where we are, the people we are with, and the objects around us. These details are bound together in our memory for the event, making it easy for us to remember the different elements together. For example, we might experience going to the park with a relative and finding a lost handbag there, and later find we remember that story upon visiting the park again.&lt;/p&gt;
 &lt;p&gt;As a postdoc in the 
 &lt;a href=&#34;http://www.aidanhorner.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;York Episodic Memory Lab&lt;/a&gt;, I worked on a project trying to understand the processes that support this kind of memory, and how they change across development. We had to make some changes to the classic research tasks to make them child-friendly, which unintentionally ended up 
-&lt;a href=&#34;https://psyarxiv.com/pd9us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;telling us a bit about the processes involved in itself&lt;/a&gt;! The developmental aspect of the study is still ongoing.&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.1098/rsos.200431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;telling us a bit about the processes involved in itself&lt;/a&gt;! Our 
+&lt;a href=&#34;http://doi.org/10.5334/joc.149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;developmental study&lt;/a&gt; replicated earlier work showing that children aged 6 already retrieve memories of events in a holistic manner, with little evidence of further changes into adulthood.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;project_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Individual differences in word learning and consolidation</title>
-      <link>/project/phd-work/</link>
+      <link>https://www.emma-james.co.uk/project/phd-work/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/phd-work/</guid>
+      <guid>https://www.emma-james.co.uk/project/phd-work/</guid>
       <description>&lt;p&gt;My PhD research aimed to understand individual differences in word learning and consolidation. Why do some children find word learning harder than others, and what happens to word memories in the longer term? Together with 
 &lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/lh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Lisa Henderson&lt;/a&gt; and 
 &lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/mgg5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Gareth Gaskell&lt;/a&gt;, we looked at how word learning might build on existing vocabulary knowledge.&lt;/p&gt;
@@ -50,17 +63,17 @@
     
     <item>
       <title>Offline consolidation supersedes prior knowledge benefits in children&#39;s (but not adults&#39;) word learning</title>
-      <link>/publication/devsci-2019/</link>
+      <link>https://www.emma-james.co.uk/publication/devsci-2019/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/devsci-2019/</guid>
+      <guid>https://www.emma-james.co.uk/publication/devsci-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consolidation of vocabulary during sleep: the rich get richer?</title>
-      <link>/publication/nbr-2017/</link>
+      <link>https://www.emma-james.co.uk/publication/nbr-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nbr-2017/</guid>
+      <guid>https://www.emma-james.co.uk/publication/nbr-2017/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Cairney | Emma James</title>
-    <link>/author/scott-cairney/</link>
-      <atom:link href="/author/scott-cairney/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/author/scott-cairney/</link>
+      <atom:link href="https://www.emma-james.co.uk/author/scott-cairney/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott Cairney</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Scott Cairney</title>
-      <link>/author/scott-cairney/</link>
+      <link>https://www.emma-james.co.uk/author/scott-cairney/</link>
     </image>
     
     <item>
       <title>Commentary: Knowledge Acquisition during Exam Preparation Improves Memory and Modulates Memory Formation</title>
-      <link>/publication/fbn-2017/</link>
+      <link>https://www.emma-james.co.uk/publication/fbn-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fbn-2017/</guid>
+      <guid>https://www.emma-james.co.uk/publication/fbn-2017/</guid>
       <description></description>
     </item>
     

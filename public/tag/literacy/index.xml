@@ -2,21 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>literacy | Emma James</title>
-    <link>/tag/literacy/</link>
-      <atom:link href="/tag/literacy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/tag/literacy/</link>
+      <atom:link href="https://www.emma-james.co.uk/tag/literacy/index.xml" rel="self" type="application/rss+xml" />
     <description>literacy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>literacy</title>
-      <link>/tag/literacy/</link>
+      <link>https://www.emma-james.co.uk/tag/literacy/</link>
     </image>
     
     <item>
+      <title>Precursors and consequences of reading comprehension difficulties</title>
+      <link>https://www.emma-james.co.uk/project/longitudinal-comprehension/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/project/longitudinal-comprehension/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project team:&lt;/strong&gt; Kate Nation, Paul Thompson, Lucy Bowes&lt;/p&gt;
+&lt;p&gt;In this project, we are interested in understanding why some children struggle with reading comprehension. Reading comprehension is a complex skill that draws upon many aspects of language and cognition: once we have successfully read a word from the page, we need to understand what it means, integrate it within the context of the sentence, update our understanding of the text we are reading, and hold all of this in mind as we progress onward. There may be many different reasons, then, why different children find comprehension difficult. To get at this question, we need to measure those abilities in very large numbers of children, and assess at the broader context in which different strengths and weaknesses occur.&lt;/p&gt;
+&lt;p&gt;Fortunately, we don&amp;rsquo;t need to collect all that data ourselves. In this project, we are using data from the Avon Longitudinal Study of Parents and Children (
+&lt;a href=&#34;http://www.bristol.ac.uk/alspac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALSPAC&lt;/a&gt;). ALSPAC recruited pregnant mothers into the study in the early 1990s, and continues to follow their offspring as they now approach their 30th birthday. We will be looking at the language and cognitive abilities of ~7000 children who completed a reading assessment at age 9 in attempt to understand some of the heterogeneity in reading comprehension difficulties. We will then be able to look at earlier predictors of reading comprehension difficulties to help us in understanding risk for comprehension problems, and document the consequences for educational and professional outcomes. Finally, we will examine whether comprehension difficulties might be associated with broader social and emotional problems, as is the case for other types of reading and language difficulty.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Identifying difficulties in reading comprehension</title>
-      <link>/project/poor-comprehenders/</link>
+      <link>https://www.emma-james.co.uk/project/poor-comprehenders/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/poor-comprehenders/</guid>
+      <guid>https://www.emma-james.co.uk/project/poor-comprehenders/</guid>
       <description>&lt;p&gt;Approximately 5-10% of children are thought to have difficulties with reading comprehension despite being able to read very accurately. Together with Jessie Ricketts, Danielle Colenbrander, Lisa Henderson, and Holly Joseph, we recently held a 
 &lt;a href=&#34;https://sites.google.com/york.ac.uk/poor-comprehender-workshop/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop to discuss research in this field&lt;/a&gt;. A key aim was to think about current practices for identifying children with specific reading comprehension difficulties.&lt;/p&gt;
 &lt;p&gt;Following on from the workshop, we are combining data from previous projects to understand differences in measures of reading comprehension. We want to know whether currently used assessments for reading comprehension identify the same kinds of comprehension difficulties as previous measures, so that we can continue to build upon this research.&lt;/p&gt;
@@ -25,9 +37,9 @@
     
     <item>
       <title>Individual differences in word learning and consolidation</title>
-      <link>/project/phd-work/</link>
+      <link>https://www.emma-james.co.uk/project/phd-work/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/phd-work/</guid>
+      <guid>https://www.emma-james.co.uk/project/phd-work/</guid>
       <description>&lt;p&gt;My PhD research aimed to understand individual differences in word learning and consolidation. Why do some children find word learning harder than others, and what happens to word memories in the longer term? Together with 
 &lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/lh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Lisa Henderson&lt;/a&gt; and 
 &lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/mgg5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Gareth Gaskell&lt;/a&gt;, we looked at how word learning might build on existing vocabulary knowledge.&lt;/p&gt;
@@ -37,9 +49,9 @@
     
     <item>
       <title>The role of morphological awareness in reading comprehension</title>
-      <link>/project/ma-lancaster/</link>
+      <link>https://www.emma-james.co.uk/project/ma-lancaster/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/project/ma-lancaster/</guid>
+      <guid>https://www.emma-james.co.uk/project/ma-lancaster/</guid>
       <description>&lt;p&gt;After completing my undergraduate degree, I worked on an ESRC-funded project on the relations between morphological awareness and reading comprehension, led by Professor Kate Cain (Lancaster University) and Professor Xiuli Tong (The University of Hong Kong). You can find out about this project here: 
 &lt;a href=&#34;http://www.psych.lancs.ac.uk/esrc-morphology/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.psych.lancs.ac.uk/esrc-morphology/&lt;/a&gt;&lt;/p&gt;
 </description>

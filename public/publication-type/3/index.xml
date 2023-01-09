@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Emma James</title>
-    <link>/publication-type/3/</link>
-      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/publication-type/3/</link>
+      <atom:link href="https://www.emma-james.co.uk/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>/publication-type/3/</link>
+      <link>https://www.emma-james.co.uk/publication-type/3/</link>
     </image>
     
     <item>
-      <title>The role of prior lexical knowledge in children’s and adults’ word learning from stories</title>
-      <link>/publication/storyneighb-2020/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/storyneighb-2020/</guid>
+      <title>Heterogeneity in children’s reading comprehension difficulties: a latent class approach</title>
+      <link>https://www.emma-james.co.uk/publication/heterocomp-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/heterocomp-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word learning in the context of semantic prior knowledge: Evidence of interference from feature-based neighbours in children and adults</title>
+      <link>https://www.emma-james.co.uk/publication/semneighb-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/semneighb-2022/</guid>
       <description></description>
     </item>
     

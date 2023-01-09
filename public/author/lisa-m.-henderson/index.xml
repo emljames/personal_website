@@ -2,61 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa M. Henderson | Emma James</title>
-    <link>/author/lisa-m.-henderson/</link>
-      <atom:link href="/author/lisa-m.-henderson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/author/lisa-m.-henderson/</link>
+      <atom:link href="https://www.emma-james.co.uk/author/lisa-m.-henderson/index.xml" rel="self" type="application/rss+xml" />
     <description>Lisa M. Henderson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lisa M. Henderson</title>
-      <link>/author/lisa-m.-henderson/</link>
+      <link>https://www.emma-james.co.uk/author/lisa-m.-henderson/</link>
     </image>
     
     <item>
-      <title>Make or break it: Boundary conditions for integrating multiple elements in episodic memory</title>
-      <link>/publication/breakdep-2020/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/breakdep-2020/</guid>
+      <title>Word learning in the context of semantic prior knowledge: Evidence of interference from feature-based neighbours in children and adults</title>
+      <link>https://www.emma-james.co.uk/publication/semneighb-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/semneighb-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The role of prior lexical knowledge in children’s and adults’ word learning from stories</title>
-      <link>/publication/storyneighb-2020/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/storyneighb-2020/</guid>
+      <title>The role of prior lexical knowledge in children’s and adults’ incidental word learning from illustrated stories</title>
+      <link>https://www.emma-james.co.uk/publication/storyneighb-2020/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/storyneighb-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The formation and retrieval of holistic event memories across development</title>
+      <link>https://www.emma-james.co.uk/publication/devdep-2020/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/devdep-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make or break it: Boundary conditions for integrating multiple elements in episodic memory</title>
+      <link>https://www.emma-james.co.uk/publication/breakdep-2020/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/breakdep-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sleep‐dependent consolidation in children with comprehension and vocabulary weaknesses: it’ll be alright on the night?</title>
-      <link>/publication/jcpp-2020/</link>
+      <link>https://www.emma-james.co.uk/publication/jcpp-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jcpp-2020/</guid>
+      <guid>https://www.emma-james.co.uk/publication/jcpp-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Offline consolidation supersedes prior knowledge benefits in children&#39;s (but not adults&#39;) word learning</title>
-      <link>/publication/devsci-2019/</link>
+      <link>https://www.emma-james.co.uk/publication/devsci-2019/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/devsci-2019/</guid>
+      <guid>https://www.emma-james.co.uk/publication/devsci-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consolidating new words from repetitive versus multiple stories: Prior knowledge matters</title>
-      <link>/publication/jecp-2018/</link>
+      <link>https://www.emma-james.co.uk/publication/jecp-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/jecp-2018/</guid>
+      <guid>https://www.emma-james.co.uk/publication/jecp-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consolidation of vocabulary during sleep: the rich get richer?</title>
-      <link>/publication/nbr-2017/</link>
+      <link>https://www.emma-james.co.uk/publication/nbr-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nbr-2017/</guid>
+      <guid>https://www.emma-james.co.uk/publication/nbr-2017/</guid>
       <description></description>
     </item>
     

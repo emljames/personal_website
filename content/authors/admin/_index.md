@@ -32,7 +32,7 @@ social:
   link: https://twitter.com/emljames
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=-PHsrlMAAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?user=XTc-dDIAAAAJ&hl=en&authuser=1
 - icon: osf
   icon_pack: ai
   link: https://osf.io/w2vpf 
@@ -46,7 +46,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently based at the University of Oxford, as a Postdoctoral Researcher in the Department of Experimental Psychology and Lecturer at St. Catherine's College. From October 2022, I will be returning to the University of York as a Lecturer in Psychology.
+I am a Lecturer in Psychology at the University of York. My research fundamentally concerns how we learn. How do we learn new words, and how might the underlying processes change with development? How does language impact literacy, and what are the implications for later life outcomes? I would welcome contact from potential PhD students interested in investigating topics within this remit.
 
 I am currently the Early Career Researcher Representative on the committee for the Experimental Psychology Society, and would be very glad to discuss ideas for supporting the ECR community.
 

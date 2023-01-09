@@ -2,37 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emma James</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/</link>
+      <atom:link href="https://www.emma-james.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <description>Emma James</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Emma James</title>
-      <link>/</link>
+      <link>https://www.emma-james.co.uk/</link>
     </image>
     
     <item>
-      <title>9th EPS Frith Prize Lecture: Title TBC</title>
-      <link>/talk/01-21-eps-frith/</link>
-      <pubDate>Wed, 06 Jan 2021 13:00:00 +0000</pubDate>
-      <guid>/talk/01-21-eps-frith/</guid>
+      <title>Heterogeneity in children’s reading comprehension difficulties: a latent class approach</title>
+      <link>https://www.emma-james.co.uk/publication/heterocomp-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/heterocomp-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>UCL Language and Cognition Seminar: Title TBC</title>
-      <link>/talk/11-20-ucl/</link>
-      <pubDate>Wed, 25 Nov 2020 11:00:00 +0000</pubDate>
-      <guid>/talk/11-20-ucl/</guid>
+      <title>Word learning in the context of semantic prior knowledge: Evidence of interference from feature-based neighbours in children and adults</title>
+      <link>https://www.emma-james.co.uk/publication/semneighb-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/semneighb-2022/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Gorilla Presents... Speech Production Research Online</title>
+      <link>https://www.emma-james.co.uk/talk/04-21-gorilla-speech/</link>
+      <pubDate>Thu, 29 Apr 2021 20:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/talk/04-21-gorilla-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of prior lexical knowledge in children’s and adults’ incidental word learning from illustrated stories</title>
+      <link>https://www.emma-james.co.uk/publication/storyneighb-2020/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/storyneighb-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The formation and retrieval of holistic event memories across development</title>
+      <link>https://www.emma-james.co.uk/publication/devdep-2020/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/devdep-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word learning through the lens of prior knowledge</title>
+      <link>https://www.emma-james.co.uk/talk/01-21-eps-frith/</link>
+      <pubDate>Wed, 06 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/talk/01-21-eps-frith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It&#39;ll be alright on the night? Exploring bedtime benefits for vocabulary learning</title>
+      <link>https://www.emma-james.co.uk/talk/11-20-ucl/</link>
+      <pubDate>Wed, 25 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/talk/11-20-ucl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precursors and consequences of reading comprehension difficulties</title>
+      <link>https://www.emma-james.co.uk/project/longitudinal-comprehension/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/project/longitudinal-comprehension/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project team:&lt;/strong&gt; Kate Nation, Paul Thompson, Lucy Bowes&lt;/p&gt;
+&lt;p&gt;In this project, we are interested in understanding why some children struggle with reading comprehension. Reading comprehension is a complex skill that draws upon many aspects of language and cognition: once we have successfully read a word from the page, we need to understand what it means, integrate it within the context of the sentence, update our understanding of the text we are reading, and hold all of this in mind as we progress onward. There may be many different reasons, then, why different children find comprehension difficult. To get at this question, we need to measure those abilities in very large numbers of children, and assess at the broader context in which different strengths and weaknesses occur.&lt;/p&gt;
+&lt;p&gt;Fortunately, we don&amp;rsquo;t need to collect all that data ourselves. In this project, we are using data from the Avon Longitudinal Study of Parents and Children (
+&lt;a href=&#34;http://www.bristol.ac.uk/alspac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALSPAC&lt;/a&gt;). ALSPAC recruited pregnant mothers into the study in the early 1990s, and continues to follow their offspring as they now approach their 30th birthday. We will be looking at the language and cognitive abilities of ~7000 children who completed a reading assessment at age 9 in attempt to understand some of the heterogeneity in reading comprehension difficulties. We will then be able to look at earlier predictors of reading comprehension difficulties to help us in understanding risk for comprehension problems, and document the consequences for educational and professional outcomes. Finally, we will examine whether comprehension difficulties might be associated with broader social and emotional problems, as is the case for other types of reading and language difficulty.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>From little to large: the importance of understanding morphemes for understanding texts</title>
-      <link>/post/jrir-2020-summary/</link>
+      <link>https://www.emma-james.co.uk/post/jrir-2020-summary/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/jrir-2020-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/jrir-2020-summary/</guid>
       <description>&lt;p&gt;If you can bear to read the news at the moment, you will likely come across words you had no reason to encounter before 2020. How is it that we can so readily skim over new terms such as &lt;em&gt;maskless&lt;/em&gt;, &lt;em&gt;super-spreader&lt;/em&gt;, and &lt;em&gt;pre-lockdown&lt;/em&gt;? Well, these words are each built from smaller units of meaning called morphemes. We know that &lt;em&gt;–less&lt;/em&gt; means “without”, adding &lt;em&gt;–er&lt;/em&gt; refers to a person that does something, and &lt;em&gt;pre-&lt;/em&gt; means “before”. This awareness of morphemes can help us understand language even when words are unfamiliar. Thus, morphological awareness likely helps developing readers as they face increasingly challenging texts. We put this proposal to the test in our recent study of reading comprehension in 6- to 13-year-old children.&lt;/p&gt;
 &lt;p&gt;We designed six tasks to assess three different types of morphology: compounds, inflections, and derivations (described in the table below). We assessed awareness of each type in two ways. In one task, children chose the most appropriate transformation between options. In the other, children produced a morphological transformation themselves. The tasks included both real and made-up words, to make sure they were measuring more than just vocabulary knowledge.&lt;/p&gt;
  &lt;img src=&#34;task_table.png&#34; alt=&#34;Tasks used to assess different types of morphology&#34;/&gt;
@@ -45,18 +97,26 @@
     </item>
     
     <item>
+      <title>Make or break it: Boundary conditions for integrating multiple elements in episodic memory</title>
+      <link>https://www.emma-james.co.uk/publication/breakdep-2020/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-james.co.uk/publication/breakdep-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When the wabon flew to the intergalatic zoo: Accessing prior lexical knowledge in explicit and incidental word learning</title>
-      <link>/talk/09-20-llc-rhul/</link>
+      <link>https://www.emma-james.co.uk/talk/09-20-llc-rhul/</link>
       <pubDate>Fri, 04 Sep 2020 11:00:00 +0000</pubDate>
-      <guid>/talk/09-20-llc-rhul/</guid>
+      <guid>https://www.emma-james.co.uk/talk/09-20-llc-rhul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using prior knowledge to build vocabulary</title>
-      <link>/post/devsci-2019-summary/</link>
+      <link>https://www.emma-james.co.uk/post/devsci-2019-summary/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/devsci-2019-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/devsci-2019-summary/</guid>
       <description>&lt;p&gt;Children with good literacy skills are more likely to enjoy reading, read more texts of increasing difficulty, and learn more words as a result. This snowballing literacy development is known as the &lt;em&gt;Matthew effect&lt;/em&gt;. While the rich in vocabulary knowledge get richer, children with poor vocabulary fall increasingly far behind. Yet differences in word learning are not only seen in reading contexts. We asked how a learner&amp;rsquo;s existing vocabulary might help them to &lt;em&gt;remember&lt;/em&gt; new words. We found that children and adults both used their prior knowledge to help them learn new words, but that children might be better placed to overcome any limitations.&lt;/p&gt;
 &lt;p&gt;To test the role of prior knowledge, we taught participants made-up words with different numbers of “neighbours” in English. A word is a neighbour if it involves a single sound swap. For example, the made-up word &lt;em&gt;solly&lt;/em&gt; has neighbours in &lt;em&gt;silly, jolly, sally, folly,&lt;/em&gt; etc. We predicted that prior knowledge of neighbours would help in learning made-up words. In contrast, the made-up word &lt;em&gt;peflin&lt;/em&gt; has no neighbours in English, making it harder for people to use their prior knowledge to help. After learning the new words, we tested participants’ ability to remember them when prompted with the starting sounds. Could people recall &lt;em&gt;peflin&lt;/em&gt; given only &lt;em&gt;pe-&lt;/em&gt;? Participants completed the same memory task the next day and one week later. These later tests were important because sleep can improve memory for new words, and changes how they are stored in long-term vocabulary.&lt;/p&gt;
 &lt;p&gt;Immediately after learning, people were much better at remembering words with neighbours. This means that both children and adults use their prior knowledge to help them learn. Intriguingly, it was the words &lt;em&gt;without&lt;/em&gt; neighbours that improved the most across tests. Moreover, children improved more than adults, so they were equally good at remembering words with and without neighbours one week later.  This fits with the idea that children’s memory might benefit more from sleep compared to adults (although sleep is only one possible explanation, since we didn’t measure sleep itself in this study). A better ability to improve new memories is helpful for children, as they typically have lots of new information to learn and less prior knowledge to help them learn it.&lt;/p&gt;
@@ -71,17 +131,17 @@
     
     <item>
       <title>Learn, Sleep, Recall, Repeat</title>
-      <link>/talk/08-20-memtalk/</link>
+      <link>https://www.emma-james.co.uk/talk/08-20-memtalk/</link>
       <pubDate>Wed, 26 Aug 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/08-20-memtalk/</guid>
+      <guid>https://www.emma-james.co.uk/talk/08-20-memtalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It&#39;ll be alright on the night</title>
-      <link>/post/jcpp-2020-summary/</link>
+      <link>https://www.emma-james.co.uk/post/jcpp-2020-summary/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/jcpp-2020-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/jcpp-2020-summary/</guid>
       <description>&lt;p&gt;Sleep helps us to learn new words, but children with reading comprehension difficulties often have poor memory for new vocabulary. In our recent study, we asked whether their vocabulary problems lie in what happens during sleep.&lt;/p&gt;
 &lt;p&gt;We taught children the names of unusual animals and plants. Some particular favourites were the shaggy &lt;em&gt;komondor&lt;/em&gt; dog and the rainbow &lt;em&gt;deglupta&lt;/em&gt; tree, pictured below&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The words were split across two sets of learning and test sessions. In one set children learned the new words first thing in the morning, and in the other set they learned the new words at the end of the evening. Straight after each learning session, they completed some memory tests for the words they had learned. Children then sat the same tests again 12 and 24 hours later, allowing us to trace how their memory changed over wake and sleep.&lt;/p&gt;
 &lt;table&gt;&lt;tr&gt;
@@ -108,18 +168,10 @@
     </item>
     
     <item>
-      <title>Make or break it: Boundary conditions for integrating multiple elements in episodic memory</title>
-      <link>/publication/breakdep-2020/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/breakdep-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tools and tips for collecting spoken responses online</title>
-      <link>/post/online-voice-recordings/</link>
+      <link>https://www.emma-james.co.uk/post/online-voice-recordings/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/online-voice-recordings/</guid>
+      <guid>https://www.emma-james.co.uk/post/online-voice-recordings/</guid>
       <description>&lt;p&gt;Recently, I gave a 
 &lt;a href=&#34;https://www.emma-james.co.uk/talk/06-20-beonline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;talk&lt;/a&gt; on running multi-session studies online at the 2020 
 &lt;a href=&#34;https://beonline.research.sc/2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeOnline conference&lt;/a&gt;. I mentioned that we had recently collected vocal responses online, but that I didn’t have time to talk about it. So, here’s a little bit more about my experiences.&lt;/p&gt;
@@ -160,58 +212,50 @@
     </item>
     
     <item>
-      <title>The role of prior lexical knowledge in children’s and adults’ word learning from stories</title>
-      <link>/publication/storyneighb-2020/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/storyneighb-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/publication/memrise-2020/</link>
+      <link>https://www.emma-james.co.uk/publication/memrise-2020/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/memrise-2020/</guid>
+      <guid>https://www.emma-james.co.uk/publication/memrise-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/talk/07-20-cogsci/</link>
+      <link>https://www.emma-james.co.uk/talk/07-20-cogsci/</link>
       <pubDate>Wed, 29 Jul 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/07-20-cogsci/</guid>
+      <guid>https://www.emma-james.co.uk/talk/07-20-cogsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The relations between morphological awareness and reading comprehension in beginner readers to young adolescents</title>
-      <link>/publication/jrir-2020/</link>
+      <link>https://www.emma-james.co.uk/publication/jrir-2020/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jrir-2020/</guid>
+      <guid>https://www.emma-james.co.uk/publication/jrir-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A (half) marathon not a sprint: Preparing to conduct multi-session memory studies online</title>
-      <link>/talk/06-20-beonline/</link>
+      <link>https://www.emma-james.co.uk/talk/06-20-beonline/</link>
       <pubDate>Tue, 30 Jun 2020 10:00:00 +0000</pubDate>
-      <guid>/talk/06-20-beonline/</guid>
+      <guid>https://www.emma-james.co.uk/talk/06-20-beonline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open research means open conversation</title>
-      <link>/talk/06-20-yor/</link>
+      <link>https://www.emma-james.co.uk/talk/06-20-yor/</link>
       <pubDate>Thu, 25 Jun 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/06-20-yor/</guid>
+      <guid>https://www.emma-james.co.uk/talk/06-20-yor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Puzzle of Vocabulary Growth</title>
-      <link>/post/nbr-2017-summary/</link>
+      <link>https://www.emma-james.co.uk/post/nbr-2017-summary/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/nbr-2017-summary/</guid>
+      <guid>https://www.emma-james.co.uk/post/nbr-2017-summary/</guid>
       <description>&lt;p&gt;Think about doing a jigsaw puzzle. Progress is often slow to begin with. It takes a while to work out how the thousands of tiny pieces fit within the bigger picture. A bit further down the line, you might have an outline. You&amp;rsquo;ve clustered some pieces together in their approximate space. The further you get in building the framework, the easier it becomes for you to place each individual piece. This phenomenon is true of learning new topics too &amp;mdash; we build cognitive frameworks that make it easier to learn related information. Yet, we don&amp;rsquo;t know much about how language learners use their prior knowledge. We asked, do children with better vocabulary knowledge find it easier to learn new words?&lt;/p&gt;
 &lt;img src=&#34;featured.png&#34; width=&#34;200&#34;/&gt;
 &lt;p&gt;To look at this question, we re-analysed data from five experiments of word learning in children. Each experiment involved teaching children some made-up words (for example, &lt;em&gt;dolpheg&lt;/em&gt;) that were similar to real words in English (&lt;em&gt;dolphin&lt;/em&gt;). Researchers then tested whether the two words became integrated in vocabulary. The integration task measured how quickly the children could detect a short pause inserted into the real words (e.g., &lt;em&gt;dolph__in&lt;/em&gt;), to see whether the made-up words were competing for recognition. When a new word is integrated into vocabulary, response times slow down. The studies each found that sleep was important for this integration to happen: the new words interfered with children’s ability to process real words only when tested the next day.&lt;/p&gt;
@@ -227,9 +271,9 @@
     
     <item>
       <title>Identifying difficulties in reading comprehension</title>
-      <link>/project/poor-comprehenders/</link>
+      <link>https://www.emma-james.co.uk/project/poor-comprehenders/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/poor-comprehenders/</guid>
+      <guid>https://www.emma-james.co.uk/project/poor-comprehenders/</guid>
       <description>&lt;p&gt;Approximately 5-10% of children are thought to have difficulties with reading comprehension despite being able to read very accurately. Together with Jessie Ricketts, Danielle Colenbrander, Lisa Henderson, and Holly Joseph, we recently held a 
 &lt;a href=&#34;https://sites.google.com/york.ac.uk/poor-comprehender-workshop/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop to discuss research in this field&lt;/a&gt;. A key aim was to think about current practices for identifying children with specific reading comprehension difficulties.&lt;/p&gt;
 &lt;p&gt;Following on from the workshop, we are combining data from previous projects to understand differences in measures of reading comprehension. We want to know whether currently used assessments for reading comprehension identify the same kinds of comprehension difficulties as previous measures, so that we can continue to build upon this research.&lt;/p&gt;
@@ -238,9 +282,9 @@
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/project/memrise-project/</link>
+      <link>https://www.emma-james.co.uk/project/memrise-project/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/memrise-project/</guid>
+      <guid>https://www.emma-james.co.uk/project/memrise-project/</guid>
       <description>&lt;p&gt;Studies of word learning and consolidation have tempting practical implications. &lt;em&gt;Can we target sleep problems to help with learning difficulties? Might we remember information better if we sleep straight after learning it?&lt;/em&gt; However, our understanding of sleep and word learning mostly comes from lab experiments, which control lots of other things about the learning environment. This means that the benefits of sleep might not be as striking in real-world learning.&lt;/p&gt;
 &lt;p&gt;In this project, I ask whether there is observable evidence for sleep-associated benefits in everyday language learning. Using app data from the foreign language-learning platform 
 &lt;a href=&#34;https://www.memrise.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Memrise&lt;/em&gt;&lt;/a&gt;, we are testing whether memory for new words is better after a period of sleep compared to a period of wake. If it is, we can start to explore what else might support vocabulary learning in this context.&lt;/p&gt;
@@ -249,38 +293,39 @@
     
     <item>
       <title>Understanding memory processes across development</title>
-      <link>/project/developmental-loops/</link>
+      <link>https://www.emma-james.co.uk/project/developmental-loops/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/developmental-loops/</guid>
+      <guid>https://www.emma-james.co.uk/project/developmental-loops/</guid>
       <description>&lt;p&gt;The events we experience contain lots of different types of information, such as where we are, the people we are with, and the objects around us. These details are bound together in our memory for the event, making it easy for us to remember the different elements together. For example, we might experience going to the park with a relative and finding a lost handbag there, and later find we remember that story upon visiting the park again.&lt;/p&gt;
 &lt;p&gt;As a postdoc in the 
 &lt;a href=&#34;http://www.aidanhorner.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;York Episodic Memory Lab&lt;/a&gt;, I worked on a project trying to understand the processes that support this kind of memory, and how they change across development. We had to make some changes to the classic research tasks to make them child-friendly, which unintentionally ended up 
-&lt;a href=&#34;https://psyarxiv.com/pd9us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;telling us a bit about the processes involved in itself&lt;/a&gt;! The developmental aspect of the study is still ongoing.&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.1098/rsos.200431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;telling us a bit about the processes involved in itself&lt;/a&gt;! Our 
+&lt;a href=&#34;http://doi.org/10.5334/joc.149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;developmental study&lt;/a&gt; replicated earlier work showing that children aged 6 already retrieve memories of events in a holistic manner, with little evidence of further changes into adulthood.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;project_logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sleep‐dependent consolidation in children with comprehension and vocabulary weaknesses: it’ll be alright on the night?</title>
-      <link>/publication/jcpp-2020/</link>
+      <link>https://www.emma-james.co.uk/publication/jcpp-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jcpp-2020/</guid>
+      <guid>https://www.emma-james.co.uk/publication/jcpp-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From ZZZs to AAAs: Why Sleep Is an Important Part of Your Study Schedule</title>
-      <link>/publication/fym-2020/</link>
+      <link>https://www.emma-james.co.uk/publication/fym-2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/fym-2020/</guid>
+      <guid>https://www.emma-james.co.uk/publication/fym-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual differences in word learning and consolidation</title>
-      <link>/project/phd-work/</link>
+      <link>https://www.emma-james.co.uk/project/phd-work/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/phd-work/</guid>
+      <guid>https://www.emma-james.co.uk/project/phd-work/</guid>
       <description>&lt;p&gt;My PhD research aimed to understand individual differences in word learning and consolidation. Why do some children find word learning harder than others, and what happens to word memories in the longer term? Together with 
 &lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/lh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Lisa Henderson&lt;/a&gt; and 
 &lt;a href=&#34;https://www.york.ac.uk/psychology/staff/academicstaff/mgg5/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Gareth Gaskell&lt;/a&gt;, we looked at how word learning might build on existing vocabulary knowledge.&lt;/p&gt;
@@ -290,9 +335,9 @@
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://www.emma-james.co.uk/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://www.emma-james.co.uk/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -424,59 +469,41 @@ Three
     
     <item>
       <title>Offline consolidation supersedes prior knowledge benefits in children&#39;s (but not adults&#39;) word learning</title>
-      <link>/publication/devsci-2019/</link>
+      <link>https://www.emma-james.co.uk/publication/devsci-2019/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/devsci-2019/</guid>
+      <guid>https://www.emma-james.co.uk/publication/devsci-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Consolidating new words from repetitive versus multiple stories: Prior knowledge matters</title>
-      <link>/publication/jecp-2018/</link>
+      <link>https://www.emma-james.co.uk/publication/jecp-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/jecp-2018/</guid>
+      <guid>https://www.emma-james.co.uk/publication/jecp-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consolidation of vocabulary during sleep: the rich get richer?</title>
-      <link>/publication/nbr-2017/</link>
+      <link>https://www.emma-james.co.uk/publication/nbr-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/nbr-2017/</guid>
+      <guid>https://www.emma-james.co.uk/publication/nbr-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commentary: Knowledge Acquisition during Exam Preparation Improves Memory and Modulates Memory Formation</title>
-      <link>/publication/fbn-2017/</link>
+      <link>https://www.emma-james.co.uk/publication/fbn-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fbn-2017/</guid>
+      <guid>https://www.emma-james.co.uk/publication/fbn-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of morphological awareness in reading comprehension</title>
-      <link>/project/ma-lancaster/</link>
+      <link>https://www.emma-james.co.uk/project/ma-lancaster/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/project/ma-lancaster/</guid>
+      <guid>https://www.emma-james.co.uk/project/ma-lancaster/</guid>
       <description>&lt;p&gt;After completing my undergraduate degree, I worked on an ESRC-funded project on the relations between morphological awareness and reading comprehension, led by Professor Kate Cain (Lancaster University) and Professor Xiuli Tong (The University of Hong Kong). You can find out about this project here: 
 &lt;a href=&#34;http://www.psych.lancs.ac.uk/esrc-morphology/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.psych.lancs.ac.uk/esrc-morphology/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -484,9 +511,9 @@ Three
     
     <item>
       <title>Emma James - CV</title>
-      <link>/cv/</link>
+      <link>https://www.emma-james.co.uk/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/cv/</guid>
+      <guid>https://www.emma-james.co.uk/cv/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 &lt;p&gt;2015 &amp;ndash; 2019:    &lt;strong&gt;PhD in Psychology&lt;/strong&gt;, University of York&lt;br&gt;
 2014 &amp;ndash; 2015:    &lt;strong&gt;MSc Developmental Cognitive Neuroscience&lt;/strong&gt;, University of York&lt;br&gt;

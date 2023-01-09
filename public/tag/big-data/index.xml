@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>big data | Emma James</title>
-    <link>/tag/big-data/</link>
-      <atom:link href="/tag/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-james.co.uk/tag/big-data/</link>
+      <atom:link href="https://www.emma-james.co.uk/tag/big-data/index.xml" rel="self" type="application/rss+xml" />
     <description>big data</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2020</copyright><lastBuildDate>Wed, 26 Aug 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Emma James 2023</copyright><lastBuildDate>Wed, 26 Aug 2020 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.emma-james.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>big data</title>
-      <link>/tag/big-data/</link>
+      <link>https://www.emma-james.co.uk/tag/big-data/</link>
     </image>
     
     <item>
       <title>Learn, Sleep, Recall, Repeat</title>
-      <link>/talk/08-20-memtalk/</link>
+      <link>https://www.emma-james.co.uk/talk/08-20-memtalk/</link>
       <pubDate>Wed, 26 Aug 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/08-20-memtalk/</guid>
+      <guid>https://www.emma-james.co.uk/talk/08-20-memtalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/talk/07-20-cogsci/</link>
+      <link>https://www.emma-james.co.uk/talk/07-20-cogsci/</link>
       <pubDate>Wed, 29 Jul 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/07-20-cogsci/</guid>
+      <guid>https://www.emma-james.co.uk/talk/07-20-cogsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sleep-associated consolidation in app-based language learning</title>
-      <link>/project/memrise-project/</link>
+      <link>https://www.emma-james.co.uk/project/memrise-project/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/memrise-project/</guid>
+      <guid>https://www.emma-james.co.uk/project/memrise-project/</guid>
       <description>&lt;p&gt;Studies of word learning and consolidation have tempting practical implications. &lt;em&gt;Can we target sleep problems to help with learning difficulties? Might we remember information better if we sleep straight after learning it?&lt;/em&gt; However, our understanding of sleep and word learning mostly comes from lab experiments, which control lots of other things about the learning environment. This means that the benefits of sleep might not be as striking in real-world learning.&lt;/p&gt;
 &lt;p&gt;In this project, I ask whether there is observable evidence for sleep-associated benefits in everyday language learning. Using app data from the foreign language-learning platform 
 &lt;a href=&#34;https://www.memrise.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Memrise&lt;/em&gt;&lt;/a&gt;, we are testing whether memory for new words is better after a period of sleep compared to a period of wake. If it is, we can start to explore what else might support vocabulary learning in this context.&lt;/p&gt;

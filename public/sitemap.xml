@@ -3,446 +3,496 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/gorilla-r/</loc>
+    <loc>https://www.emma-james.co.uk/courses/gorilla-r/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/01-21-eps-frith/</loc>
+    <loc>https://www.emma-james.co.uk/publication-type/3/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/authors/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/consolidation/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/grainne-murphy/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/publication/heterocomp-2022/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/josie-tulip/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/kate-nation/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/lisa-m.-henderson/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/literacy/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/literacy-development/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/lucy-bowes/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/m.-gareth-gaskell/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/mixture-modelling/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/paul-thompson/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/poor-comprehenders/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/prior-knowledge/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/publication_types/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/reading-comprehension/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tags/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/vocabulary/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/word-learning/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/publication/semneighb-2022/</loc>
+    <lastmod>2022-04-28T11:41:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/data-collection/</loc>
+    <lastmod>2021-04-07T10:14:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/talk/04-21-gorilla-speech/</loc>
+    <lastmod>2021-04-07T10:14:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/methods/</loc>
+    <lastmod>2021-04-07T10:14:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/research-methods/</loc>
+    <lastmod>2021-04-07T10:14:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/publication-type/2/</loc>
+    <lastmod>2021-11-08T12:46:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/caroline-korell/</loc>
+    <lastmod>2021-11-08T12:46:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/charlotte-dean/</loc>
+    <lastmod>2021-11-08T12:46:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/rhiannon-pearce/</loc>
+    <lastmod>2021-11-08T12:46:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/publication/storyneighb-2020/</loc>
+    <lastmod>2021-11-08T12:46:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/aidan-j.-horner/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/episodic-memory/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/gabrielle-ong/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/memory/</loc>
+    <lastmod>2021-03-26T18:15:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/memory-development/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/publication/devdep-2020/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/talk/01-21-eps-frith/</loc>
+    <lastmod>2021-03-21T18:41:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/talk/11-20-ucl/</loc>
+    <lastmod>2020-11-15T12:08:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/development/</loc>
+    <lastmod>2021-11-08T12:24:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/project/longitudinal-comprehension/</loc>
+    <lastmod>2021-11-08T12:24:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/project/</loc>
+    <lastmod>2021-11-08T12:24:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/categories/</loc>
+    <lastmod>2020-09-24T15:01:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/post/jrir-2020-summary/</loc>
+    <lastmod>2020-09-24T15:01:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/morphological-awareness/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/morphology/</loc>
+    <lastmod>2020-09-24T15:01:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/category/research-summary/</loc>
+    <lastmod>2020-09-24T15:01:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/publication/breakdep-2020/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/tag/learning/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/talk/09-20-llc-rhul/</loc>
     <lastmod>2020-09-04T13:52:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/11-20-ucl/</loc>
+    <loc>https://www.emma-james.co.uk/post/devsci-2019-summary/</loc>
     <lastmod>2020-09-04T13:52:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jrir-2020-summary/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/literacy/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/literacy-development/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/morphological-awareness/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/morphology/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/poor-comprehenders/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reading-comprehension/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/research-summary/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/consolidation/</loc>
-    <lastmod>2020-09-04T13:52:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/learning/</loc>
-    <lastmod>2020-09-04T13:52:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/memory/</loc>
-    <lastmod>2020-09-04T13:52:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/prior-knowledge/</loc>
-    <lastmod>2020-09-04T13:52:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/vocabulary/</loc>
-    <lastmod>2020-09-04T13:52:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/09-20-llc-rhul/</loc>
-    <lastmod>2020-09-04T13:52:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/word-learning/</loc>
-    <lastmod>2020-09-04T13:52:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/devsci-2019-summary/</loc>
-    <lastmod>2020-09-04T13:52:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/big-data/</loc>
+    <loc>https://www.emma-james.co.uk/tag/big-data/</loc>
     <lastmod>2020-08-21T15:00:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/08-20-memtalk/</loc>
+    <loc>https://www.emma-james.co.uk/talk/08-20-memtalk/</loc>
     <lastmod>2020-08-21T15:00:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/sleep/</loc>
-    <lastmod>2020-08-21T15:00:42+01:00</lastmod>
+    <loc>https://www.emma-james.co.uk/tag/sleep/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jcpp-2020-summary/</loc>
+    <loc>https://www.emma-james.co.uk/post/jcpp-2020-summary/</loc>
     <lastmod>2020-08-19T11:38:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/aidan-j.-horner/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/episodic-memory/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gabrielle-ong/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lisa-m.-henderson/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/breakdep-2020/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/data-collection/</loc>
+    <loc>https://www.emma-james.co.uk/category/methods/</loc>
     <lastmod>2020-08-13T11:25:17+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/methods/</loc>
+    <loc>https://www.emma-james.co.uk/post/online-voice-recordings/</loc>
     <lastmod>2020-08-13T11:25:17+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/research-methods/</loc>
-    <lastmod>2020-08-13T11:25:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/online-voice-recordings/</loc>
-    <lastmod>2020-08-13T11:25:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2020-08-04T15:34:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/caroline-korell/</loc>
-    <lastmod>2020-08-04T15:34:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/charlotte-dean/</loc>
-    <lastmod>2020-08-04T15:34:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m.-gareth-gaskell/</loc>
-    <lastmod>2020-08-04T15:34:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/rhiannon-pearce/</loc>
-    <lastmod>2020-08-04T15:34:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/storyneighb-2020/</loc>
-    <lastmod>2020-08-04T15:34:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
+    <loc>https://www.emma-james.co.uk/publication-type/1/</loc>
     <lastmod>2020-08-12T18:12:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/hannah-tickle/</loc>
+    <loc>https://www.emma-james.co.uk/author/hannah-tickle/</loc>
     <lastmod>2020-08-12T18:12:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/memrise-2020/</loc>
+    <loc>https://www.emma-james.co.uk/publication/memrise-2020/</loc>
     <lastmod>2020-08-12T18:12:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/yolanda-g.-koutraki/</loc>
+    <loc>https://www.emma-james.co.uk/author/yolanda-g.-koutraki/</loc>
     <lastmod>2020-08-12T18:12:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/07-20-cogsci/</loc>
+    <loc>https://www.emma-james.co.uk/talk/07-20-cogsci/</loc>
     <lastmod>2020-07-27T16:14:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/yolanda-koutraki/</loc>
+    <loc>https://www.emma-james.co.uk/author/yolanda-koutraki/</loc>
     <lastmod>2020-07-27T16:14:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/kate-cain/</loc>
+    <loc>https://www.emma-james.co.uk/author/kate-cain/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/nicola-k.-currie/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/shelley-xiuli-tong/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/publication/jrir-2020/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/talk/06-20-beonline/</loc>
     <lastmod>2020-07-27T16:14:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nicola-k.-currie/</loc>
+    <loc>https://www.emma-james.co.uk/talk/06-20-yor/</loc>
     <lastmod>2020-07-27T16:14:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/shelley-xiuli-tong/</loc>
+    <loc>https://www.emma-james.co.uk/tag/open-science/</loc>
     <lastmod>2020-07-27T16:14:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/jrir-2020/</loc>
+    <loc>https://www.emma-james.co.uk/tag/reproducibility/</loc>
     <lastmod>2020-07-27T16:14:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/06-20-beonline/</loc>
-    <lastmod>2020-07-27T16:14:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/methods/</loc>
-    <lastmod>2020-07-27T16:14:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/06-20-yor/</loc>
-    <lastmod>2020-07-27T16:14:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/open-science/</loc>
-    <lastmod>2020-07-27T16:14:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reproducibility/</loc>
-    <lastmod>2020-07-27T16:14:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/nbr-2017-summary/</loc>
+    <loc>https://www.emma-james.co.uk/post/nbr-2017-summary/</loc>
     <lastmod>2020-06-15T13:20:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/comprehension/</loc>
+    <loc>https://www.emma-james.co.uk/tag/comprehension/</loc>
     <lastmod>2020-05-22T17:25:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/development/</loc>
-    <lastmod>2020-08-12T18:12:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/poor-comprehenders/</loc>
+    <loc>https://www.emma-james.co.uk/project/poor-comprehenders/</loc>
     <lastmod>2020-05-22T17:25:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-08-12T18:12:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/memrise-project/</loc>
+    <loc>https://www.emma-james.co.uk/project/memrise-project/</loc>
     <lastmod>2020-05-22T17:25:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/developmental-loops/</loc>
-    <lastmod>2020-08-12T18:12:52+01:00</lastmod>
+    <loc>https://www.emma-james.co.uk/project/developmental-loops/</loc>
+    <lastmod>2021-03-26T18:15:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/jcpp-2020/</loc>
+    <loc>https://www.emma-james.co.uk/publication/jcpp-2020/</loc>
+    <lastmod>2021-03-22T09:32:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/ann-kathrin-joechner/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/ann-kathrin-joechner/</loc>
+    <loc>https://www.emma-james.co.uk/author/beate-e.-muehlroth/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/beate-e.-muehlroth/</loc>
+    <loc>https://www.emma-james.co.uk/publication/fym-2020/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/fym-2020/</loc>
-    <lastmod>2020-05-07T19:17:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/phd-work/</loc>
+    <loc>https://www.emma-james.co.uk/project/phd-work/</loc>
     <lastmod>2020-05-22T17:25:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://www.emma-james.co.uk/slides/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://www.emma-james.co.uk/slides/example/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/devsci-2019/</loc>
+    <loc>https://www.emma-james.co.uk/publication/devsci-2019/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.emma-james.co.uk/publication/jecp-2018/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
+    <loc>https://www.emma-james.co.uk/author/anna-weighall/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/terms/</loc>
+    <loc>https://www.emma-james.co.uk/publication/nbr-2017/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/jecp-2018/</loc>
+    <loc>https://www.emma-james.co.uk/publication/fbn-2017/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/anna-weighall/</loc>
+    <loc>https://www.emma-james.co.uk/author/scott-cairney/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/nbr-2017/</loc>
-    <lastmod>2020-05-07T19:17:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fbn-2017/</loc>
-    <lastmod>2020-05-07T19:17:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/scott-cairney/</loc>
-    <lastmod>2020-05-07T19:17:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ma-lancaster/</loc>
+    <loc>https://www.emma-james.co.uk/project/ma-lancaster/</loc>
     <lastmod>2020-05-22T17:25:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/emma-james/</loc>
-    <lastmod>2020-05-11T11:40:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cv/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://www.emma-james.co.uk/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://www.emma-james.co.uk/author/emma-james/</loc>
+    <lastmod>2022-04-28T12:21:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/post/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://www.emma-james.co.uk/publication/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://www.emma-james.co.uk/talk/</loc>
     <lastmod>2020-05-07T19:17:51+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://www.emma-james.co.uk/courses/</loc>
+    <lastmod>2020-05-07T19:17:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.emma-james.co.uk/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>
