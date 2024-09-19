@@ -20,9 +20,9 @@ tags:
 title: "PhD Opportunities [2025 start]"
 ---
 
-I am keen to support PhD applicants in the domains of learning, language, and/or literacy development. Some suggested project remits are described below that align with my current work, but these are by no means prescriptive. Potential applicants are encouraged to get in touch discuss alternative ideas that they think would be a good fit to the research we conduct at York.
+I am keen to support PhD applications in the domains of learning, language, and/or literacy development. Some suggested project remits are described below that align with my current work, but these are by no means prescriptive. Potential applicants are encouraged to get in touch discuss alternative ideas that they think would be a good fit to the research we conduct at York.
 
-1.  **How do we use morphological knowledge to support new vocabulary learning?**
+1.  **How do we use morphological knowledge to support new word learning?**
 2.  **How do adolescents learn and consolidate new words across school subjects?**
 3.  **How do retrieval practice and sleep interact in boosting word knowledge?**
 
