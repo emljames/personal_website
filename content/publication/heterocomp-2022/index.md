@@ -7,8 +7,8 @@ authors:
 - Paul Thompson
 - Lucy Bowes
 - Kate Nation
-date: "2022-04-08T00:00:00Z"
-doi: "10.31234/osf.io/ru6x2"
+date: "2023-06-05T00:00:00Z"
+doi: "10.1002/jcv2.12177"
 featured: false
 image:
   caption: 'Image credit: []()'
@@ -16,10 +16,10 @@ image:
   preview_only: true
 projects:
 - longitudinal-comprehension
-publication: ""
+publication: '*JCPP Advances, 3*(4)'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2022-04-08T00:00:00Z"
 slides: 
 summary: 
@@ -31,7 +31,7 @@ tags:
 title: "Heterogeneity in children’s reading comprehension difficulties: a latent class approach"
 url_code: ''
 url_dataset: 'https://osf.io/zvjw4/'
-url_pdf: 'https://psyarxiv.com/ru6x2/'
+url_pdf: 'https://acamh.onlinelibrary.wiley.com/doi/epdf/10.1002/jcv2.12177'
 url_poster: ''
 url_project: ""
 url_slides: ""
