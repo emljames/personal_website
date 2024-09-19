@@ -22,7 +22,7 @@ location: "Newcastle University"
 math: true
 projects: 
 - phd-work
-publishDate: "2024-09-29T00:00:00Z"
+publishDate: "2024-09-18T00:00:00Z"
 slides: 
 summary: 
 tags:
