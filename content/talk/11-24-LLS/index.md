@@ -18,7 +18,7 @@ featured: false
 image:
   caption: 'Image credit: []())'
   focal_point: Right
-location: "Newcastle University"
+location: "University of Cambridge"
 math: true
 projects: 
 - phd-work
@@ -26,7 +26,7 @@ publishDate: "2024-09-18T00:00:00Z"
 slides: 
 summary: 
 tags:
-title: "Slow and steady wins the race? Consolidating new vocabulary in childhood and adulthood [Provisional]"
+title: "Slow and steady wins the race? Consolidating new vocabulary in childhood and adulthood [Provisional title]"
 url_code: ""
 url_pdf: ""
 url_poster: ""
